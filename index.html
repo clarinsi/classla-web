@@ -199,6 +199,20 @@
       text-align:right;
     }
 
+	.item-list.grid-2x2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem 1rem;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .item-list.grid-2x2 > li {
+      display: flex;
+      flex-direction: column;
+    }
+
     @media (max-width:640px){
       .nav{flex-direction:column;align-items:flex-start}
       .hero{padding:1.25rem 1rem}
@@ -227,8 +241,7 @@
  <section class="hero" id="top">
   <h1 class="hero-title">CLASSLA-web: South Slavic web corpora for research and language technology</h1>
   <p class="hero-subtitle">
-    CLASSLA-web is a collection of comparable, large-scale web corpora all seven South Slavic languages: Slovene, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, and Bulgarian. The corpora are built from national top-level domain web crawls, cleaned and curated, linguistically annotated with the CLASSLA-Stanza
-    pipeline, and enriched with document-level genre and topic labels.
+    CLASSLA-web is a collection of comparable, large-scale web corpora all seven South Slavic languages: Slovene, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, and Bulgarian. The corpora are built from national top-level domain web crawls, cleaned and curated, linguistically annotated with the CLASSLA-Stanza pipeline, and enriched with document-level genre and topic labels.
   </p>
 
   <div class="hero-meta">
@@ -242,7 +255,7 @@
     <span>Developed and curated by</span>
     <img
       style="width:25%; max-width:160px; display:inline-block;"
-      src="/media/CLASSLA-k-centre-transparent-background.png"
+      src="https://www.clarin.si/info/wp-content/uploads/2024/03/CLASSLA-k-centre-transparent-background-768x252.png"
       alt="CLASSLA K-Centre logo"
     />
     <img
@@ -256,9 +269,6 @@
 
 <section id="about">
   <h2>CLASSLA-web at a glance</h2>
-  <p class="section-intro">
-    CLASSLA-web is a collection of large, freely available web corpora for South Slavic languages, created through iterative national web crawling and enriched with linguistic, genre, and topical annotations.
-  </p>
 
   <div class="callout">
     <div class="item-description">
@@ -267,7 +277,7 @@
         <li>Two major releases: CLASSLA-web 1.0 (collected in 2021–2022) and CLASSLA-web 2.0 (collected 2024).</li>
         <li>CLASSLA-web 2.0 size: 17 billion words in 38 million texts.</li>
         <li>High temporal novelty: roughly 80% of texts in version 2.0 are new compared to version 1.0.</li>
-        <li>Distributed via CLARIN.SI in download-ready formats and accessible through online concordancers.</li>
+        <li>Distributed via the CLARIN.SI repository in download-ready formats and accessible through CLARIN.SI concordancers.</li>
       </ul>
     </div>
   </div>
@@ -420,15 +430,6 @@
       <p class="section-intro">
         CLASSLA-web is designed as a (bi)annual, repeatable web-corpus collection effort. Version 2.0 is intended to be a newer iteration of the same comparable pipeline.
       </p>
-
-      <div class="callout">
-        <div class="item-title" style="margin-bottom:.25rem;">What is different in 2.0 compared to 1.0?</div>
-        <div class="item-description">
-          The key difference is the time slice of the web (newer crawl window), while keeping the comparability principle:
-          the same overall crawling strategy (national TLD focus with controlled expansion), the same structural representation (texts/paragraphs/sentences/tokens),
-          and the same core enrichment goals (linguistic annotation and genre labels). In addition, 2.0 is the natural place for incremental improvements
-          in filtering, language identification, deduplication, and updates of the annotation models and their versions.
-        </div>
       </div>
 
       <ul class="item-list" style="margin-top:1rem;">
@@ -486,18 +487,18 @@
   <div class="callout" style="margin-top:1rem;">
     <div class="item-title" style="margin-bottom:.35rem;">Video presentation (CLASSLA-web 1.0)</div>
     <div class="item-description">
-      This recorded presentation introduces the original CLASSLA-web 1.0 corpora and the overall
-      crawling and annotation methodology, which also forms the basis of version 2.0.
+      This recorded presentation introduces the original CLASSLA-web 1.0 corpora and the overall crawling and annotation methodology, which also forms the basis of version 2.0.
     </div>
 
-    <video
-      controls
-      preload="metadata"
-      style="width:100%;border-radius:.75rem;border:1px solid var(--border);background:#000;margin-top:.6rem;"
-    >
-      <source src="media/CLASSLA-web-video-presentation.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
+<video
+  controls
+  preload="none"
+  poster="media/CLASSLA-web-video-preview.png"
+  style="width:100%;border-radius:.75rem;border:1px solid var(--border);background:#000;margin-top:.6rem;"
+>
+  <source src="https://portal.ijs.si/nextcloud/s/nCP8ddGLsgjA2G2" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
   </div>
 </section>
 
@@ -611,7 +612,7 @@
         For questions about the corpora or collaboration, contact the authors below.
       </p>
 
-      <ul class="item-list">
+      <ul class="item-list grid-2x2">
         <li>
           <div class="item-title">Nikola Ljubešić</div>
           <div class="item-meta">Jožef Stefan Institute / University of Ljubljana / Institute of Contemporary History</div>
