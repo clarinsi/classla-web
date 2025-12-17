@@ -286,7 +286,7 @@
 <section id="about">
   <h2>What are the CLASSLA-web corpora?</h2>
   <p class="section-intro">
-    The CLASSLA-web corpora are intended as broad-coverage, analysis-ready web datasets that support  corpus linguistics, digital humanities, and development of language technologies, including pretraining large language models. Each corpus includes linguistic annotation and rich document-level metadata, including genre labels (versions 1.0 and 2.0) and topic labels (version 2.0).
+    The CLASSLA-web corpora are intended as broad-coverage, analysis-ready web datasets that support  corpus linguistics, digital humanities, and development of language technologies, including pretraining large language models. Each corpus includes <a href="https://github.com/clarinsi/classla">linguistic annotation</a> and rich document-level metadata, including <a href="http://doi.org/10.57967/hf/0927">genre labels</a> (versions 1.0 and 2.0) and <a href="http://doi.org/10.57967/hf/4709">topic labels</a> (version 2.0).
   </p>
 
   <div class="split">
@@ -341,9 +341,9 @@
       <ul class="item-list">
         <li>
           <div class="item-title">Slovene: CLASSLA-web.sl 1.0</div>
-          <div class="item-meta">1,768,555,396 words · 4,063,462 texts</div>
+          <div class="item-meta">1.8B words · 4M texts</div>
           <div class="item-description">
-            Web crawl centered on the .si domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .si domain (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1882">Repository</a>
@@ -353,9 +353,9 @@
 
         <li>
           <div class="item-title">Croatian: CLASSLA-web.hr 1.0</div>
-          <div class="item-meta">2,189,723,427 words · 5,422,656 texts</div>
+          <div class="item-meta">2.2B words · 5M texts</div>
           <div class="item-description">
-            Web crawl centered on the .hr domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .hr domain (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1929">Repository</a>
@@ -365,9 +365,9 @@
 
         <li>
           <div class="item-title">Serbian: CLASSLA-web.sr 1.0</div>
-          <div class="item-meta">2,342,626,265 words · 5,256,087 texts</div>
+          <div class="item-meta">2.3B words · 5M texts</div>
           <div class="item-description">
-            Web crawl centered on the .rs and .срб domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .rs and .срб domains (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1931">Repository</a>
@@ -377,9 +377,9 @@
 
         <li>
           <div class="item-title">Bosnian: CLASSLA-web.bs 1.0</div>
-          <div class="item-meta">686,231,779 words · 1,993,891 texts</div>
+          <div class="item-meta">690M words · 2M texts</div>
           <div class="item-description">
-            Web crawl centered on the .ba domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .ba domain (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1927">Repository</a>
@@ -389,9 +389,9 @@
 
         <li>
           <div class="item-title">Montenegrin: CLASSLA-web.cnr 1.0</div>
-          <div class="item-meta">150,672,975 words · 401,290 texts</div>
+          <div class="item-meta">150M words · 0.4M texts</div>
           <div class="item-description">
-            Web crawl centered on the .me domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .me domain (with controlled expansion).
 
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1930">Repository</a>
@@ -401,9 +401,9 @@
 
         <li>
           <div class="item-title">Macedonian: CLASSLA-web.mk 1.0</div>
-          <div class="item-meta">479,099,183 words · 1,482,495 texts</div>
+          <div class="item-meta">480M words · 1.5M texts</div>
           <div class="item-description">
-            Web crawl centered on the .mk and .мкд domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .mk and .мкд domains (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1932">Repository</a>
@@ -413,9 +413,9 @@
 
         <li>
           <div class="item-title">Bulgarian: CLASSLA-web.bg 1.0</div>
-          <div class="item-meta">3,249,563,781 words · 7,456,727 texts</div>
+          <div class="item-meta">3.2B words · 7M texts</div>
           <div class="item-description">
-            Web crawl centered on the .bg and .бг domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+            Web crawl centered on the .bg and .бг domains (with controlled expansion).
           </div>
           <div class="item-links">
             <a href="https://hdl.handle.net/11356/1928">Repository</a>
@@ -425,26 +425,92 @@
       </ul>
     </section>
 
-    <section id="classlaweb20">
-      <h2>Data: CLASSLA-web 2.0 (crawl 2024)</h2>
-      <p class="section-intro">
-        CLASSLA-web is designed as a (bi)annual, repeatable web-corpus collection effort. Version 2.0 is intended to be a newer iteration of the same comparable pipeline.
-      </p>
-      </div>
+<section id="classlaweb20">
+  <h2>Data: CLASSLA-web 2.0 (crawl 2024)</h2>
+  <p class="section-intro">
+    Version 2.0 represents the second iteration of the CLASSLA-web collection, created using the same comparable crawling, filtering, and annotation pipeline as version 1.0. All corpora are distributed via a single CLARIN.SI repository entry, while each language is available through its own concordancer.
+  </p>
 
-      <ul class="item-list" style="margin-top:1rem;">
-        <li>
-          <div class="item-title">CLASSLA-web.* 2.0 corpora</div>
-          <div class="item-meta">Links will be added when 2.0 is published</div>
-          <div class="item-description">
-            Once available, each language will have a separate repository item and a concordancer installation, mirroring the 1.0 structure.
-          </div>
-          <div class="item-links">
-            <a href="#construction">See the construction pipeline</a>
-          </div>
-        </li>
-      </ul>
-    </section>
+  <ul class="item-list">
+    <li>
+      <div class="item-title">Bosnian: CLASSLA-web.bs 2.0</div>
+      <div class="item-meta">1.01 billion words · 2.54 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.ba</code> domain with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_bs" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Bulgarian: CLASSLA-web.bg 2.0</div>
+      <div class="item-meta">5.99 billion words · 14.67 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.bg</code> and <code>.бг</code> domains with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_bg" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Croatian: CLASSLA-web.hr 2.0</div>
+      <div class="item-meta">3.01 billion words · 5.92 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.hr</code> domain with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_hr" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Macedonian: CLASSLA-web.mk 2.0</div>
+      <div class="item-meta">0.69 billion words · 2.11 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.mk</code> and <code>.мкд</code> domains with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_mk" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Montenegrin: CLASSLA-web.cnr 2.0</div>
+      <div class="item-meta">0.29 billion words · 0.79 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.me</code> domain with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_cnr" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Serbian: CLASSLA-web.sr 2.0</div>
+      <div class="item-meta">3.71 billion words · 7.24 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.rs</code> and <code>.срб</code> domains with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_sr" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-title">Slovene: CLASSLA-web.sl 2.0</div>
+      <div class="item-meta">2.31 billion words · 4.79 million texts</div>
+      <div class="item-description">
+        Web crawl centered on the <code>.si</code> domain with controlled expansion.
+      </div>
+      <div class="item-links">
+        <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb2_sl" target="_blank" rel="noopener">Concordancer</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
 
 <section id="construction">
   <h2>How CLASSLA-web were constructed</h2>
