@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CLASSLA-web - South Slavic web corpus collection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root{
+      --bg:#f5f5f7;
+      --bg-alt:#ffffff;
+      --text:#1f2933;
+      --accent:#2563eb;
+      --accent-soft:#e0ecff;
+      --border:#e5e7eb;
+      --muted:#6b7280;
+    }
+    *{box-sizing:border-box;scroll-behavior:smooth}
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      color:var(--text);
+      background:var(--bg);
+      line-height:1.6;
+    }
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    img{max-width:100%;height:auto}
+
+    header{
+      position:sticky;
+      top:0;
+      z-index:50;
+      background:rgba(245,245,247,.9);
+      backdrop-filter:blur(10px);
+      border-bottom:1px solid var(--border);
+    }
+    .nav{
+      max-width:1000px;
+      margin:0 auto;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding:.75rem 1rem;
+      gap:1rem;
+    }
+    .nav-title{
+      font-size:1.1rem;
+      font-weight:600;
+      letter-spacing:.2px;
+    }
+    .nav-links{
+      display:flex;
+      gap:1rem;
+      flex-wrap:wrap;
+      font-size:.95rem;
+      justify-content:flex-end;
+    }
+    .nav-links a{
+      position:relative;
+      padding-bottom:.15rem;
+      white-space:nowrap;
+    }
+    .nav-links a::after{
+      content:"";
+      position:absolute;
+      left:0;
+      bottom:0;
+      width:0;
+      height:2px;
+      background:var(--accent);
+      transition:width .2s ease-out;
+    }
+    .nav-links a:hover::after{width:100%}
+
+    main{
+      max-width:1000px;
+      margin:0 auto;
+      padding:1.5rem 1rem 3rem;
+    }
+    section{
+      margin:2.5rem 0;
+      padding:1.5rem 1.25rem;
+      border-radius:.75rem;
+      background:var(--bg-alt);
+      border:1px solid var(--border);
+    }
+    section h2{
+      margin-top:0;
+      margin-bottom:.5rem;
+      font-size:1.3rem;
+    }
+    section p.section-intro{
+      margin-top:0;
+      margin-bottom:1rem;
+      color:#4b5563;
+      font-size:.95rem;
+      max-width:68ch;
+    }
+
+    .hero{
+      margin-top:1.75rem;
+      margin-bottom:2rem;
+      padding:1.75rem 1.5rem;
+      border-radius:1rem;
+      background:linear-gradient(135deg, rgba(37,99,235,.08), rgba(79,70,229,.03));
+      border:1px solid var(--border);
+    }
+    .hero-title{
+      font-size:1.7rem;
+      margin:0 0 .5rem;
+      letter-spacing:-.2px;
+    }
+    .hero-subtitle{
+      margin:0 0 1rem;
+      color:#4b5563;
+      font-size:.98rem;
+      max-width:82ch;
+    }
+    .hero-meta{
+      display:flex;
+      flex-wrap:wrap;
+      gap:.75rem;
+      font-size:.85rem;
+      color:var(--muted);
+      align-items:center;
+    }
+    .tag{
+      display:inline-flex;
+      align-items:center;
+      padding:.15rem .55rem;
+      border-radius:999px;
+      background:var(--accent-soft);
+      font-size:.8rem;
+      color:#1d4ed8;
+      border:1px solid rgba(37,99,235,.15);
+    }
+
+    .item-list{
+      list-style:none;
+      padding:0;
+      margin:0;
+      display:grid;
+      grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));
+      gap:.75rem 1rem;
+    }
+    .item-list li{
+      padding:.85rem .85rem;
+      border-radius:.6rem;
+      border:1px dashed var(--border);
+      background:#fafafa;
+      font-size:.92rem;
+      display:flex;
+      flex-direction:column;
+      gap:.35rem;
+    }
+    .item-title{font-weight:600}
+    .item-meta{font-size:.82rem;color:var(--muted)}
+    .item-description{font-size:.9rem;color:#4b5563}
+    .item-links{display:flex;flex-wrap:wrap;gap:.6rem;font-size:.9rem}
+    .item-links a{white-space:nowrap}
+
+    .split{
+      display:grid;
+      grid-template-columns:1fr;
+      gap:1rem;
+    }
+    .callout{
+      padding:.9rem 1rem;
+      border-radius:.75rem;
+      border:1px solid var(--border);
+      background:linear-gradient(135deg, rgba(37,99,235,.06), rgba(79,70,229,.02));
+    }
+
+    .codeblock{
+      font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size:.85rem;
+      background:#0b1220;
+      color:#e5e7eb;
+      padding:1rem;
+      border-radius:.75rem;
+      overflow:auto;
+      border:1px solid rgba(255,255,255,.06);
+      line-height:1.45;
+      margin:.75rem 0 0;
+      white-space:pre;
+    }
+    .fineprint{
+      font-size:.82rem;
+      color:#6b7280;
+      margin:.75rem 0 0;
+    }
+
+    footer{
+      max-width:1000px;
+      margin:0 auto;
+      padding:0 1rem 2rem;
+      font-size:.8rem;
+      color:#9ca3af;
+      text-align:right;
+    }
+
+    @media (max-width:640px){
+      .nav{flex-direction:column;align-items:flex-start}
+      .hero{padding:1.25rem 1rem}
+      section{padding:1.25rem 1rem}
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="nav">
+      <div class="nav-title">CLASSLA-web</div>
+      <nav class="nav-links">
+        <a href="#about">About</a>
+        <a href="#classlaweb10">CLASSLA-web 1.0</a>
+        <a href="#classlaweb20">CLASSLA-web 2.0</a>
+        <a href="#construction">Corpora Construction</a>
+        <a href="#cite">How to cite</a>
+        <a href="#tutorials">Tutorials</a>
+        <a href="#contact">Contacts</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+ <section class="hero" id="top">
+  <h1 class="hero-title">CLASSLA-web: South Slavic web corpora for research and language technology</h1>
+  <p class="hero-subtitle">
+    CLASSLA-web is a collection of comparable, large-scale web corpora all seven South Slavic languages: Slovene, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, and Bulgarian. The corpora are built from national top-level domain web crawls, cleaned and curated, linguistically annotated with the CLASSLA-Stanza
+    pipeline, and enriched with document-level genre and topic labels.
+  </p>
+
+  <div class="hero-meta">
+    <span class="tag">Comparable web corpora</span>
+    <span class="tag">Linguistically-annotated</span>
+    <span class="tag">Genre categories</span>
+    <span class="tag">Topic labels</span>
+  </div>
+
+  <div class="hero-meta" style="margin-top:0.75rem; align-items:center;">
+    <span>Developed and curated by</span>
+    <img
+      style="width:25%; max-width:160px; display:inline-block;"
+      src="/media/CLASSLA-k-centre-transparent-background.png"
+      alt="CLASSLA K-Centre logo"
+    />
+    <img
+      style="width:25%; max-width:160px; display:inline-block;"
+      src="https://www.clarin.si/info/wp-content/uploads/2014/08/Clarin-SI-logo.png"
+      alt="CLARIN.SI logo"
+    />
+
+  </div>
+</section>
+
+<section id="about">
+  <h2>CLASSLA-web at a glance</h2>
+  <p class="section-intro">
+    CLASSLA-web is a collection of large, freely available web corpora for South Slavic languages, created through iterative national web crawling and enriched with linguistic, genre, and topical annotations.
+  </p>
+
+  <div class="callout">
+    <div class="item-description">
+      <ul>
+        <li>Seven languages: Bosnian, Bulgarian, Croatian, Macedonian, Montenegrin, Serbian, Slovenian.</li>
+        <li>Two major releases: CLASSLA-web 1.0 (collected in 2021–2022) and CLASSLA-web 2.0 (collected 2024).</li>
+        <li>CLASSLA-web 2.0 size: 17 billion words in 38 million texts.</li>
+        <li>High temporal novelty: roughly 80% of texts in version 2.0 are new compared to version 1.0.</li>
+        <li>Distributed via CLARIN.SI in download-ready formats and accessible through online concordancers.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <h2>What are the CLASSLA-web corpora?</h2>
+  <p class="section-intro">
+    The CLASSLA-web corpora are intended as broad-coverage, analysis-ready web datasets that support  corpus linguistics, digital humanities, and development of language technologies, including pretraining large language models. Each corpus includes linguistic annotation and rich document-level metadata, including genre labels (versions 1.0 and 2.0) and topic labels (version 2.0).
+  </p>
+
+  <div class="split">
+    <div class="callout">
+      <div class="item-title" style="margin-bottom:.25rem;">Corpus attributes</div>
+      <div class="item-description">
+        <ul style="margin:.5rem 0 .25rem 1.1rem;">
+          <li><code>id</code> – unique document identifier, e.g. <code>CLASSLA-web-2024.sl.16</code></li>
+          <li><code>title</code> – document title, if available</li>
+          <li><code>text</code> – full document text; paragraphs are separated by newline characters (<code>\n</code>)</li>
+          <li><code>url</code> – original document URL</li>
+          <li><code>domain</code> – extracted domain name (e.g. <code>11.si</code>)</li>
+          <li><code>tld</code> – top-level domain (e.g. <code>si</code>, <code>hr</code>)</li>
+          <li><code>lang</code> – language code (<code>sl</code>, <code>hr</code>, <code>sr</code>, <code>bs</code>, <code>cnr</code>, <code>mk</code>, <code>bg</code>; hidden in the concordancer)</li>
+          <li><code>script</code> – Latin or Cyrillic (used in Bosnian/Croatian/Serbian/Montenegrin corpora</li>
+          <li><code>crawl_year</code> – year of the web crawl (hidden in the concordancer)</li>
+          <li><code>genre</code> – automatically predicted document genre using the X-GENRE classifier; one of:
+            <br>
+            <code>Information/Explanation</code>, <code>News</code>, <code>Instruction</code>, <code>Opinion/Argumentation</code>,
+            <code>Forum</code>, <code>Prose/Lyrical</code>, <code>Legal</code>, <code>Promotion</code>, <code>Other</code>, <code>Mix</code>
+            (where <code>Mix</code> indicates classifier confidence below 0.8)
+          </li>
+          <li><code>topic</code> – automatically predicted IPTC news topic (version 2.0); one of:
+            <br>
+            <code>Politics</code>, <code>Economy, Business and Finance</code>, <code>Society</code>, <code>Education</code>,
+            <code>Science and Technology</code>, <code>Health</code>, <code>Sport</code>, <code>Arts, Culture, Entertainment and Media</code>,
+            <code>Crime, Law and Justice</code>, <code>Environment</code>, <code>Conflict, War and Peace</code>, <code>Weather</code>,
+            <code>Human Interest</code>, <code>Lifestyle and Leisure</code>, <code>Labour</code>, <code>Religion</code>,
+            <code>Disaster, Accident and Emergency Incident</code>, <code>Mix</code>
+            (where <code>Mix</code> indicates classifier confidence below 0.6)
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="callout" style="margin-top:1rem;">
+    <div class="item-title" style="margin-bottom:.25rem;">JSONL format examples</div>
+    <pre class="codeblock">
+{"id":"CLASSLA-web-2024.sl.2","title":"Psihoterapija Rokov Brlog – Telegram","text":"Ponosen, da sem med strokovnjaki ...\n","url":"https://t.me/s/rokovbrlog","domain":"t.me","tld":"me","lang":"sl","crawl_year":2024,"genre":"Promotion","topic":"Society"}
+{"id":"CLASSLA-web-2024.hr.1","title":"WWW.HR - Početna stranica Hrvatske","text":"\"WWW.HR - početna stranica Hrvatske\" je projekt ...\n","url":"https://www.hr/onama","domain":"hr","tld":"hr","lang":"hr","script":"Latin","crawl_year":2024,"genre":"Information/Explanation","topic":"Education"}
+    </pre>
+  </div>
+</section>
+
+    <section id="classlaweb10">
+      <h2>Data: CLASSLA-web 1.0 (crawl 2021–2022)</h2>
+      <p class="section-intro">
+        Version 1.0 is the first full public repository release of the seven-language CLASSLA-web collection.
+      </p>
+
+      <ul class="item-list">
+        <li>
+          <div class="item-title">Slovene: CLASSLA-web.sl 1.0</div>
+          <div class="item-meta">1,768,555,396 words · 4,063,462 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .si domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1882">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_sl">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Croatian: CLASSLA-web.hr 1.0</div>
+          <div class="item-meta">2,189,723,427 words · 5,422,656 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .hr domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1929">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_hr">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Serbian: CLASSLA-web.sr 1.0</div>
+          <div class="item-meta">2,342,626,265 words · 5,256,087 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .rs and .срб domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1931">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_sr">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Bosnian: CLASSLA-web.bs 1.0</div>
+          <div class="item-meta">686,231,779 words · 1,993,891 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .ba domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1927">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_bs">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Montenegrin: CLASSLA-web.cnr 1.0</div>
+          <div class="item-meta">150,672,975 words · 401,290 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .me domain (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1930">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_cnr">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Macedonian: CLASSLA-web.mk 1.0</div>
+          <div class="item-meta">479,099,183 words · 1,482,495 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .mk and .мкд domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1932">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_mk">Concordancer</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Bulgarian: CLASSLA-web.bg 1.0</div>
+          <div class="item-meta">3,249,563,781 words · 7,456,727 texts</div>
+          <div class="item-description">
+            Web crawl centered on the .bg and .бг domains (with controlled expansion), cleaned and enriched with linguistic and genre annotation.
+          </div>
+          <div class="item-links">
+            <a href="https://hdl.handle.net/11356/1928">Repository</a>
+            <a href="https://www.clarin.si/ske/#dashboard?corpname=classlaweb_bg">Concordancer</a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="classlaweb20">
+      <h2>Data: CLASSLA-web 2.0 (crawl 2024)</h2>
+      <p class="section-intro">
+        CLASSLA-web is designed as a (bi)annual, repeatable web-corpus collection effort. Version 2.0 is intended to be a newer iteration of the same comparable pipeline.
+      </p>
+
+      <div class="callout">
+        <div class="item-title" style="margin-bottom:.25rem;">What is different in 2.0 compared to 1.0?</div>
+        <div class="item-description">
+          The key difference is the time slice of the web (newer crawl window), while keeping the comparability principle:
+          the same overall crawling strategy (national TLD focus with controlled expansion), the same structural representation (texts/paragraphs/sentences/tokens),
+          and the same core enrichment goals (linguistic annotation and genre labels). In addition, 2.0 is the natural place for incremental improvements
+          in filtering, language identification, deduplication, and updates of the annotation models and their versions.
+        </div>
+      </div>
+
+      <ul class="item-list" style="margin-top:1rem;">
+        <li>
+          <div class="item-title">CLASSLA-web.* 2.0 corpora</div>
+          <div class="item-meta">Links will be added when 2.0 is published</div>
+          <div class="item-description">
+            Once available, each language will have a separate repository item and a concordancer installation, mirroring the 1.0 structure.
+          </div>
+          <div class="item-links">
+            <a href="#construction">See the construction pipeline</a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+<section id="construction">
+  <h2>How CLASSLA-web were constructed</h2>
+  <p class="section-intro">
+    The corpora are built through large-scale national top-level-domain web crawling, followed by cleaning, structuring, and automatic enrichment. All CLASSLA-web versions share a common methodological backbone, enabling direct comparison across crawling iterations.
+  </p>
+
+  <div class="callout">
+    <div class="item-title" style="margin-bottom:.5rem;">Pipeline overview</div>
+
+    <img
+      src="media/CLASSLA-web-2.0-pipeline.png"
+      alt="CLASSLA-web construction pipeline"
+      style="width:100%;height:auto;border:1px solid var(--border);border-radius:.75rem;background:#fff;"
+    />
+
+    <div class="fineprint">
+      Key steps include national TLD crawling, language identification (with specialized HBS disambiguation), boilerplate and duplicate removal, manual inspection of top domains, automatic genre and topic annotation, and linguistic annotation with CLASSLA-Stanza.
+    </div>
+  </div>
+
+  <div class="callout" style="margin-top:1rem;">
+    <div class="item-title" style="margin-bottom:.35rem;">What is new in CLASSLA-web 2.0?</div>
+    <div class="item-description">
+      Compared to CLASSLA-web 1.0 (crawled in 2021–2022), the 2.0 release (crawled in 2024)
+      introduces several important improvements:
+      <ul>
+        <li>Substantially larger corpora: 17 billion words and 38 million texts across seven languages.</li>
+        <li>Very low overlap with version 1.0: on average, only about 20% of texts are shared,
+            showing rapid turnover of web content.</li>
+        <li>Improved near-duplicate detection through masking of numbers, punctuation, and links.</li>
+        <li>Expanded manual inspection of high-frequency domains for all languages, addressing
+            the rise of automatically generated and low-quality content.</li>
+        <li>A new document-level annotation layer: automatic topic labels (IPTC News Topics),
+            complementing existing genre annotation.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="callout" style="margin-top:1rem;">
+    <div class="item-title" style="margin-bottom:.35rem;">Video presentation (CLASSLA-web 1.0)</div>
+    <div class="item-description">
+      This recorded presentation introduces the original CLASSLA-web 1.0 corpora and the overall
+      crawling and annotation methodology, which also forms the basis of version 2.0.
+    </div>
+
+    <video
+      controls
+      preload="metadata"
+      style="width:100%;border-radius:.75rem;border:1px solid var(--border);background:#000;margin-top:.6rem;"
+    >
+      <source src="media/CLASSLA-web-video-presentation.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</section>
+
+
+      <div class="callout" style="margin-top:1rem;">
+        <div class="item-title" style="margin-bottom:.25rem;">Paper describing the corpora</div>
+        <div class="item-description">
+          Ljubešić, Nikola and Kuzman, Taja (2024). CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation.
+        </div>
+        <div class="item-links" style="margin-top:.5rem;">
+          <a href="https://aclanthology.org/2024.lrec-main.291/">Link</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="cite">
+      <h2>How do I cite the CLASSLA-web</h2>
+      <p class="section-intro">
+        Please always cite both: (1) the specific corpus you used (the CLARIN.SI repository item for the correct language and version) and
+        (2) the paper describing the corresponding CLASSLA-web version.
+      </p>
+
+      <div class="callout">
+        <div class="item-title">1) Cite the corpus (repository item)</div>
+        <div class="item-description">
+          Use the BibTeX entry matching the exact corpus you queried or downloaded. Examples for 1.0 are provided below.
+        </div>
+
+        <div class="codeblock">@misc{classlaweb_sl_1_0,
+  title        = {Slovenian web corpus CLASSLA-web.sl 1.0},
+  author       = {Ljube{\v{s}}i{\'c}, Nikola and Rupnik, Peter and Kuzman, Taja},
+  year         = {2024},
+  howpublished = {\url{https://hdl.handle.net/11356/1882}},
+  note         = {CLARIN.SI repository}
+}
+
+</div>
+
+        <div class="fineprint">
+          If you prefer, you can also use the repository’s built-in Cite function and export BibTeX directly from each CLARIN.SI item page.
+        </div>
+      </div>
+
+      <div class="callout" style="margin-top:1rem;">
+        <div class="item-title">2) Cite the paper (version description)</div>
+        <div class="item-description">
+          Cite the CLASSLA-web paper in addition to the corpus item.
+        </div>
+
+        <div class="codeblock">@inproceedings{ljubesic-kuzman-2024-classla,
+  title     = {{CLASSLA}-web: Comparable Web Corpora of {S}outh {S}lavic Languages Enriched with Linguistic and Genre Annotation},
+  author    = {Ljube{\v{s}}i{\'c}, Nikola and Kuzman, Taja},
+  booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  year      = {2024},
+  pages     = {3271--3282},
+  url       = {https://aclanthology.org/2024.lrec-main.291/}
+}</div>
+
+        <div class="fineprint">
+          For CLASSLA-web 2.0, cite the 2.0 corpus items and the 2.0 paper (once available) rather than the 1.0 references.
+        </div>
+      </div>
+    </section>
+
+    <section id="tutorials">
+      <h2>Tutorials</h2>
+      <p class="section-intro">
+        Practical guides for querying CLASSLA-web and for using the models involved in the corpora enrichment.
+      </p>
+
+      <ul class="item-list">
+        <li>
+          <div class="item-title">Quick concordancer tutorial (blog post)</div>
+          <div class="item-meta">noSketch Engine · searching, collocations, statistics</div>
+          <div class="item-description">
+            A fast walkthrough of how to query the corpora and explore results in the CLARIN.SI concordancer.
+          </div>
+          <div class="item-links">
+            <a href="https://www.clarin.si/info/k-centre/classla-web-bigger-and-better-web-corpora-for-croatian-serbian-and-slovenian-on-clarin-si-concordancers/">Read the tutorial</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">CLASSLA-Express workshop series</div>
+          <div class="item-meta">Hands-on workshops · corpora + tools (+ LLMs in 2.0)</div>
+          <div class="item-description">
+            Workshops on using CLASSLA web corpora in language research. The series continues next year with new stops and updated teaching materials.
+          </div>
+          <div class="item-links">
+            <a href="https://www.clarin.si/info/k-centre/workshops/classla-express/">Workshop website</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">How to use the models used to annotate CLASSLA-web</div>
+          <div class="item-meta">Annotation pipeline · linguistic + genre</div>
+          <div class="item-description">
+            Use CLASSLA-Stanza for linguistic annotation and X-GENRE for multilingual genre identification on your own data, or to reproduce parts of the enrichment pipeline.
+          </div>
+          <div class="item-links">
+            <a href="https://github.com/clarinsi/classla">CLASSLA-Stanza (GitHub)</a>
+            <a href="https://huggingface.co/classla/xlm-roberta-base-multilingual-text-genre-classifier">X-GENRE (Hugging Face)</a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contacts</h2>
+      <p class="section-intro">
+        For questions about the corpora or collaboration, contact the authors below.
+      </p>
+
+      <ul class="item-list">
+        <li>
+          <div class="item-title">Nikola Ljubešić</div>
+          <div class="item-meta">Jožef Stefan Institute / University of Ljubljana / Institute of Contemporary History</div>
+          <div class="item-description">
+            Email: <a href="mailto:nikola.ljubesic@ijs.si">nikola.ljubesic@ijs.si</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-title">Taja Kuzman Pungeršek</div>
+          <div class="item-meta">Jožef Stefan Institute </div>
+          <div class="item-description">
+            Email: <a href="mailto:taja.kuzman@ijs.si">taja.kuzman@ijs.si</a>
+          </div>
+        </li>
+        <li>
+          <div class="item-title">CLASSLA Helpdesk</div>
+          <div class="item-meta">Inquiries related to South Slavic languages and resources</div>
+          <div class="item-description">
+            Email: <a href="mailto:helpdesk.classla@clarin.si">helpdesk.classla@clarin.si</a>
+          </div>
+        </li>
+        <li>
+          <div class="item-title">CLARIN.SI Helpdesk</div>
+          <div class="item-meta">Repository and concordancer support</div>
+          <div class="item-description">
+            Email: <a href="mailto:info@clarin.si">info@clarin.si</a>
+          </div>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <span>
+      &copy; <span id="year"></span> CLASSLA ·
+      <a href="#top">Back to top</a>
+    </span>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
