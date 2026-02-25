@@ -8,7 +8,7 @@ Example:
 ```python
   # CLASSLA-web 2.0 text id
   "CLASSLA-web.2.0.bs.2": [
-    # CLASSLA-wb 1.0 text id
+    # CLASSLA-web 1.0 text id
     "CLASSLA-web.bs.1024224"
   ],
 ```
