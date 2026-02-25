@@ -1,0 +1,1590 @@
+	domain	comment	source_corpus
+0	fakti.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+1	news.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+2	bntnews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+3	dnevnik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+4	pik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+5	vesti.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+6	actualno.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+7	investor.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+8	dnes.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+9	frognews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+10	old.duma.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+11	pogled.info	ok	CLASSLA-web.2.0 (Eastern Slavic)
+12	blitz.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+13	novini.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+14	gol.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+15	duma.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+16	kmeta.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+17	webcafe.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+18	clubz.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+19	dnes.dir.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+20	money.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+21	struma.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+22	offnews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+23	slava.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+24	bgnow.eu	ok	CLASSLA-web.2.0 (Eastern Slavic)
+25	forum.setcombg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+26	struma.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+27	btvnovinite.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+28	econ.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+29	botevgrad.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+30	capital.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+31	24chasa.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+32	m.dnes.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+33	nova.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+34	bgonair.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+35	topsport.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+36	inews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+37	iskra.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+38	gramophon.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+39	puls.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+40	lifestyle.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+41	winner.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+42	edna.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+43	flashnews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+44	gpk.caselaw.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+45	bazar.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+46	wwww.actualno.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+47	old.4vlast-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+48	it-bg.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+49	flagman.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+50	sinor.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+51	woman.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+52	mobilebulgaria.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+53	lex.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+54	auto-press.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+55	aop.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+56	bet-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+57	bulgaria.utre.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+58	borbabg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+59	sporta.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+60	ruse.utre.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+61	story.rozali.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+62	zor.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+63	nav.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+64	bul-mamma.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+65	ezine.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+66	papagal.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+67	werock.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+68	medbul.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+69	automedia.investor.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+70	dariknews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+71	store.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+72	liternet.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+73	marica.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+74	forum.vwclub.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+75	agro.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+76	bnr.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+77	insmarket.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+78	netnews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+79	jenite.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+80	dennews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+81	clubs.dir.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+82	skyscrapercity.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+83	boec.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+84	forum.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+85	dama.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+86	bta.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+87	ruse24.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+88	grabo.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+89	front.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+90	tialoto.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+91	offroad-bulgaria.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+92	expert.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+93	prosport.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+94	darik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+95	lupa.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+96	nbp.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+97	forum.mobilebulgaria.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+98	imoti.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+99	az-jenata.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+100	iwoman.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+101	auto.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+102	forum.napravisam.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+103	bloombergtv.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+104	otkrovenia.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+105	toppresa.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+106	forum.gong.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+107	bradva.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+108	dev.presstv.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+109	blife.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+110	forumnauka.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+111	kibik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+112	sanovnik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+113	gotvach.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+114	skodaclub.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+115	hotnews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+116	ureport.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+117	dsport.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+118	agri.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+119	dgpazar.eu	ok	CLASSLA-web.2.0 (Eastern Slavic)
+120	recepti.gotvach.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+121	fight-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+122	poligraff.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+123	business.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+124	e-vestnik.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+125	easternspirit.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+126	infotourism.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+127	tvnovellas.blogspot.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+128	img.bnr.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+129	spekulanti.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+130	mysound.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+131	drehi.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+132	potv.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+133	zachatie.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+134	chitanka.info	ok	CLASSLA-web.2.0 (Eastern Slavic)
+135	bnt.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+136	makeup.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+137	medianews.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+138	investbg.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+139	hicomm.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+140	pixelmedia.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+141	ladyzone.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+142	petel.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+143	varnautre.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+144	btvsport.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+145	clubs1.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+146	publics.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+147	yambolnews.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+148	acmilan-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+149	maistorplus.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+150	goldenpages.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+151	manager.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+152	focus-news.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+153	clinica.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+154	sofia24.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+155	apteka.framar.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+156	modernavratza.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+157	stringmeteo.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+158	mcu-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+159	admsudhaskovo.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+160	euronewsbulgaria.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+161	scribd.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+162	vicove.biz	ok	CLASSLA-web.2.0 (Eastern Slavic)
+163	toyotabg.eu	ok	CLASSLA-web.2.0 (Eastern Slavic)
+164	metalhangar18.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+165	parliament140.bnr.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+166	topactualno.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+167	kino.dir.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+168	hulite.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+169	pickup-project.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+170	forum.bg-turist.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+171	burgaslargo.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+172	forum.androidbg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+173	jenatadnes.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+174	e-79.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+175	meduzata.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+176	helpos.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+177	lexmedicanews.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+178	fun.9999999views.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+179	bulgarian-offers.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+180	lovecbg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+181	taran.news	ok	CLASSLA-web.2.0 (Eastern Slavic)
+182	bia-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+183	alfarss.net	ok	CLASSLA-web.2.0 (Eastern Slavic)
+184	prnew.info	ok	CLASSLA-web.2.0 (Eastern Slavic)
+185	svobodnabulgaria.eu	ok	CLASSLA-web.2.0 (Eastern Slavic)
+186	forums.softvisia.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+187	faktibg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+188	rositza.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+189	ciela.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+190	promooferti.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+191	budilnikbg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+192	kreativen.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+193	pirinnews.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+194	strangera.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+195	oblastvt.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+196	news.unabg.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+197	bulgaria-italia.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+198	iskambg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+199	geoimot.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+200	radiobella.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+201	impexron.bg	ok	CLASSLA-web.2.0 (Eastern Slavic)
+202	aron-bg.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+203	arzid.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+204	whiskeytemple.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+205	kratkoinfo.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+206	gol.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+207	puls24.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+208	mia.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+209	plusinfo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+210	daily.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+211	meta.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+212	forum.carclub.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+213	lider.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+214	fakulteti.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+215	press24.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+216	off.net.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+217	arhiva.plusinfo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+218	kafepauza.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+219	denar.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+220	denesen.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+221	kajgana.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+222	ekran.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+223	femina.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+224	tribuna.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+225	fashionel.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+226	okno.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+227	pressingtv.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+228	time.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+229	a1on.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+230	forum.idividi.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+231	porta3.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+232	ulica.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+233	vardarfans.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+234	moirecepti.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+235	tvm.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+236	sdk.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+237	news1.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+238	admin.sitel.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+239	skopjeinfo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+240	tvmohrid.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+241	novatv.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+242	centar.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+243	mn.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+244	365.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+245	skopje1.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+246	vrabotuvanje.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+247	katolici.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+248	mtm.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+249	usb.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+250	apla.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+251	lokalno.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+252	makfudbal.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+253	mk.bloombergadria.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+254	preminportal.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+255	glamur.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+256	faktor.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+257	24.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+258	automedia.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+259	publikum.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+260	civilmedia.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+261	info.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+262	webohrid.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+263	new.mia.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+264	build.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+265	web.archive.org	ok	CLASSLA-web.2.0 (Eastern Slavic)
+266	gotvi.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+267	kukuriku.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+268	biznisinfo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+269	javisejuzna.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+270	sportplus.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+271	ekipa.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+272	agrotim.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+273	porta.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+274	24fudbal.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+275	republika.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+276	zdravstvo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+277	g-sport.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+278	sport1.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+279	radar.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+280	zelenaberza.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+281	carclub.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+282	24press.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+283	sportmanija.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+284	tocka.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+285	antropol.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+286	smart.sdk.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+287	emiter.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+288	globe.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+289	emagazin.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+290	telefoni.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+291	tvplus.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+292	ustavensud.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+293	kavadar4e.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+294	ilike.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+295	supersport.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+296	360stepeni.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+297	biznisvesti.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+298	opserver.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+299	eprints.ugd.edu.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+300	mama.glamur.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+301	rtk.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+302	vesnik-ilinden.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+303	mk.voanews.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+304	bitolskivesnik.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+305	bulevar.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+306	proverkanafakti.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+307	espreso.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+308	build.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+309	standard.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+310	stylist.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+311	sezahrana.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+312	ipon.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+313	duma.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+314	mkdpress.eu	ok	CLASSLA-web.2.0 (Eastern Slavic)
+315	kurir.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+316	sportski.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+317	sportm.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+318	mpc.org.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+319	zoom.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+320	alfa.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+321	alsat.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+322	mastilo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+323	ubavo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+324	racin.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+325	gradska.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+326	akademik.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+327	mediapress.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+328	zenskimagazin.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+329	moemeni.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+330	glasno.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+331	aktuelno.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+332	novalek.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+333	inovativnost.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+334	mms.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+335	tatkovina.info	ok	CLASSLA-web.2.0 (Eastern Slavic)
+336	kariera.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+337	samozdravje.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+338	idividi.com.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+339	konekt.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+340	zivotenstil.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+341	pharmanews.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+342	powerinfo.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+343	frontline.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+344	instore.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+345	drnka.mk	ok	CLASSLA-web.2.0 (Eastern Slavic)
+346	selotejp.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+347	intvaustralia.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+348	biznispro.com	ok	CLASSLA-web.2.0 (Eastern Slavic)
+349	forum.hr	ok	MaCoCu-HBS-1.0
+350	arhiva.nacional.hr	ok	MaCoCu-HBS-1.0
+351	zadarskilist.hr	ok	MaCoCu-HBS-1.0
+352	narodne-novine.nn.hr	ok	MaCoCu-HBS-1.0
+353	forum.roda.hr	ok	MaCoCu-HBS-1.0
+354	m.vecernji.hr	ok	MaCoCu-HBS-1.0
+355	hkv.hr	ok	MaCoCu-HBS-1.0
+356	tportal.hr	ok	MaCoCu-HBS-1.0
+357	poslovni.hr	ok	MaCoCu-HBS-1.0
+358	vecernji.hr	ok	MaCoCu-HBS-1.0
+359	express.24sata.hr	ok	MaCoCu-HBS-1.0
+360	dnevnik.hr	ok	MaCoCu-HBS-1.0
+361	cybermed.hr	ok	MaCoCu-HBS-1.0
+362	antenazadar.hr	ok	MaCoCu-HBS-1.0
+363	blog.dnevnik.hr	ok	MaCoCu-HBS-1.0
+364	ringeraja.hr	ok	MaCoCu-HBS-1.0
+365	fotozine.org	ok	MaCoCu-HBS-1.0
+366	slobodnadalmacija.hr	ok	MaCoCu-HBS-1.0
+367	eur-lex.europa.eu	ok	MaCoCu-HBS-1.0
+368	audiofil.hr	ok	MaCoCu-HBS-1.0
+369	m.metro-portal.hr	ok	MaCoCu-HBS-1.0
+370	legalis.hr	ok	MaCoCu-HBS-1.0
+371	enciklopedija.hr	ok	MaCoCu-HBS-1.0
+372	esavjetovanja.gov.hr	ok	MaCoCu-HBS-1.0
+373	jutarnji.hr	ok	MaCoCu-HBS-1.0
+374	nacional.hr	ok	MaCoCu-HBS-1.0
+375	kulturpunkt.hr	ok	MaCoCu-HBS-1.0
+376	poslovniforum.hr	ok	MaCoCu-HBS-1.0
+377	fashion.hr	ok	MaCoCu-HBS-1.0
+378	objektivno.hr	ok	MaCoCu-HBS-1.0
+379	buro247.hr	ok	MaCoCu-HBS-1.0
+380	studentski.hr	ok	MaCoCu-HBS-1.0
+381	story.hr	ok	MaCoCu-HBS-1.0
+382	perun.hr	ok	MaCoCu-HBS-1.0
+383	europarl.europa.eu	ok	MaCoCu-HBS-1.0
+384	bug.hr	ok	MaCoCu-HBS-1.0
+385	mojtv.hr	ok	MaCoCu-HBS-1.0
+386	gohome.hr	ok	MaCoCu-HBS-1.0
+387	portaloko.hr	ok	MaCoCu-HBS-1.0
+388	zg-magazin.com.hr	ok	MaCoCu-HBS-1.0
+389	samoborskiglasnik.net	ok	MaCoCu-HBS-1.0
+390	hsp1861.hr	ok	MaCoCu-HBS-1.0
+391	mvinfo.hr	ok	MaCoCu-HBS-1.0
+392	sensa.hr	ok	MaCoCu-HBS-1.0
+393	dugirat.com	ok	MaCoCu-HBS-1.0
+394	profightstore.hr	ok	MaCoCu-HBS-1.0
+395	cosmopolitan.hr	ok	MaCoCu-HBS-1.0
+396	miss7.24sata.hr	ok	MaCoCu-HBS-1.0
+397	centarzdravlja.hr	ok	MaCoCu-HBS-1.0
+398	hic.hr	ok	MaCoCu-HBS-1.0
+399	politikaplus.com	ok	MaCoCu-HBS-1.0
+400	crol.hr	ok	MaCoCu-HBS-1.0
+401	muzika.hr	ok	MaCoCu-HBS-1.0
+402	volim-losinj.org	ok	MaCoCu-HBS-1.0
+403	sn.pgz.hr	ok	MaCoCu-HBS-1.0
+404	sportnet.rtl.hr	ok	MaCoCu-HBS-1.0
+405	magicus.info	ok	MaCoCu-HBS-1.0
+406	hcl.hr	ok	MaCoCu-HBS-1.0
+407	lupiga.com	ok	MaCoCu-HBS-1.0
+408	narod.hr	ok	MaCoCu-HBS-1.0
+409	forum.tambura.com.hr	ok	MaCoCu-HBS-1.0
+410	glas-slavonije.hr	ok	MaCoCu-HBS-1.0
+411	srednja.hr	ok	MaCoCu-HBS-1.0
+412	miss7zdrava.24sata.hr	ok	MaCoCu-HBS-1.0
+413	forum.pcekspert.com	ok	MaCoCu-HBS-1.0
+414	goodgame.hr	ok	MaCoCu-HBS-1.0
+415	ika.hkm.hr	ok	MaCoCu-HBS-1.0
+416	tris.com.hr	ok	MaCoCu-HBS-1.0
+417	edusinfo.hr	ok	MaCoCu-HBS-1.0
+418	elle.hr	ok	MaCoCu-HBS-1.0
+419	istarski.hr	ok	MaCoCu-HBS-1.0
+420	crosport.hr	ok	MaCoCu-HBS-1.0
+421	teatar.hr	ok	MaCoCu-HBS-1.0
+422	vidi.hr	ok	MaCoCu-HBS-1.0
+423	netokracija.com	ok	MaCoCu-HBS-1.0
+424	novagra.hr	ok	MaCoCu-HBS-1.0
+425	pozeska-kronika.hr	ok	MaCoCu-HBS-1.0
+426	roditelji.hr	ok	MaCoCu-HBS-1.0
+427	katalozi.net	ok	MaCoCu-HBS-1.0
+428	sportcom.hr	ok	MaCoCu-HBS-1.0
+429	sbplus.hr	ok	MaCoCu-HBS-1.0
+430	degiorgi.math.hr	ok	MaCoCu-HBS-1.0
+431	zarez.hr	ok	MaCoCu-HBS-1.0
+432	libela.org	ok	MaCoCu-HBS-1.0
+433	klubskascena.hr	ok	MaCoCu-HBS-1.0
+434	itgirl.hr	ok	MaCoCu-HBS-1.0
+435	gol.dnevnik.hr	ok	MaCoCu-HBS-1.0
+436	index.hr	ok	MaCoCu-HBS-1.0
+437	filmski.net	ok	MaCoCu-HBS-1.0
+438	glasistre.hr	ok	MaCoCu-HBS-1.0
+439	femina.hr	ok	MaCoCu-HBS-1.0
+440	crnojaje.hr	ok	MaCoCu-HBS-1.0
+441	blog.vecernji.hr	ok	MaCoCu-HBS-1.0
+442	forum.mojskuter.com	ok	MaCoCu-HBS-1.0
+443	in-portal.hr	ok	MaCoCu-HBS-1.0
+444	banke.com.hr	ok	MaCoCu-HBS-1.0
+445	jabucnjak.hr	ok	MaCoCu-HBS-1.0
+446	energetika-net.com	ok	MaCoCu-HBS-1.0
+447	fitness.com.hr	ok	MaCoCu-HBS-1.0
+448	cityportal.hr	ok	MaCoCu-HBS-1.0
+449	totalinfo.hr	ok	MaCoCu-HBS-1.0
+450	stara.suvremena.hr	ok	MaCoCu-HBS-1.0
+451	brodportal.hr	ok	MaCoCu-HBS-1.0
+452	booksa.hr	ok	MaCoCu-HBS-1.0
+453	hfs.hr	ok	MaCoCu-HBS-1.0
+454	skijanje.hr	ok	MaCoCu-HBS-1.0
+455	galaksija.info	ok	MaCoCu-HBS-1.0
+456	lektire.hr	ok	MaCoCu-HBS-1.0
+457	glaslike.hr	ok	MaCoCu-HBS-1.0
+458	tomablizanac.blogspot.com	ok	MaCoCu-HBS-1.0
+459	e-vozila.com	ok	MaCoCu-HBS-1.0
+460	matis.hr	ok	MaCoCu-HBS-1.0
+461	notarius.hr	ok	MaCoCu-HBS-1.0
+462	mok.hr	ok	MaCoCu-HBS-1.0
+463	osijek031.com	ok	MaCoCu-HBS-1.0
+464	hkm.hr	ok	MaCoCu-HBS-1.0
+465	dubrovnikinsider.hr	ok	MaCoCu-HBS-1.0
+466	veritas.hr	ok	MaCoCu-HBS-1.0
+467	infozona.hr	ok	MaCoCu-HBS-1.0
+468	imoart.hr	ok	MaCoCu-HBS-1.0
+469	gkr.hr	ok	MaCoCu-HBS-1.0
+470	iskrica.tportal.hr	ok	MaCoCu-HBS-1.0
+471	totalno.hr	ok	MaCoCu-HBS-1.0
+472	turistplus.hr	ok	MaCoCu-HBS-1.0
+473	casopiskvaka.com.hr	ok	MaCoCu-HBS-1.0
+474	f1.pulsmedia.hr	ok	MaCoCu-HBS-1.0
+475	zakon.hr	ok	MaCoCu-HBS-1.0
+476	nhs.hr	ok	MaCoCu-HBS-1.0
+477	terapija.net	ok	MaCoCu-HBS-1.0
+478	vlada.gov.hr	ok	MaCoCu-HBS-1.0
+479	portalnovosti.com	ok	MaCoCu-HBS-1.0
+480	rirock.com	ok	MaCoCu-HBS-1.0
+481	usporedi.hr	ok	MaCoCu-HBS-1.0
+482	naturala.hr	ok	MaCoCu-HBS-1.0
+483	znet.hr	ok	MaCoCu-HBS-1.0
+484	prijatelji-zivotinja.hr	ok	MaCoCu-HBS-1.0
+485	crnemambe.hr	ok	MaCoCu-HBS-1.0
+486	teklic.hr	ok	MaCoCu-HBS-1.0
+487	zg-nadbiskupija.hr	ok	MaCoCu-HBS-1.0
+488	hia.com.hr	ok	MaCoCu-HBS-1.0
+489	slobodnifilozofski.com	ok	MaCoCu-HBS-1.0
+490	mob.hr	ok	MaCoCu-HBS-1.0
+491	dorh.hr	ok	MaCoCu-HBS-1.0
+492	vizkultura.hr	ok	MaCoCu-HBS-1.0
+493	pcchip.hr	ok	MaCoCu-HBS-1.0
+494	dubrovnikportal.com	ok	MaCoCu-HBS-1.0
+495	konzerva.hr	ok	MaCoCu-HBS-1.0
+496	vidilab.com	ok	MaCoCu-HBS-1.0
+497	hdtelevizija.com	ok	MaCoCu-HBS-1.0
+498	msd-prirucnici.placebo.hr	ok	MaCoCu-HBS-1.0
+499	journal.hr	ok	MaCoCu-HBS-1.0
+500	old.skolskiportal.hr	ok	MaCoCu-HBS-1.0
+501	krenizdravo.hr	ok	MaCoCu-HBS-1.0
+502	zadovoljna.dnevnik.hr	ok	MaCoCu-HBS-1.0
+503	zadarskanadbiskupija.hr	ok	MaCoCu-HBS-1.0
+504	arteist.hr	ok	MaCoCu-HBS-1.0
+505	hrv.hr	ok	MaCoCu-HBS-1.0
+506	popcorn.hr	ok	MaCoCu-HBS-1.0
+507	poljoprivredni-forum.com	ok	MaCoCu-HBS-1.0
+508	dubrovnikpress.hr	ok	MaCoCu-HBS-1.0
+509	ziher.hr	ok	MaCoCu-HBS-1.0
+510	automobili.hr	ok	MaCoCu-HBS-1.0
+511	stilistika.org	ok	MaCoCu-HBS-1.0
+512	radio.hrt.hr	ok	MaCoCu-HBS-1.0
+513	andrejplenkovic.hr	ok	MaCoCu-HBS-1.0
+514	hrvatskareprezentacija.hr	ok	MaCoCu-HBS-1.0
+515	5portal.hr	ok	MaCoCu-HBS-1.0
+516	vasezdravlje.com	ok	MaCoCu-HBS-1.0
+517	burzanautike.com	ok	MaCoCu-HBS-1.0
+518	radiodalmacija.hr	ok	MaCoCu-HBS-1.0
+519	zzjzpgz.hr	ok	MaCoCu-HBS-1.0
+520	liberal.hr	ok	MaCoCu-HBS-1.0
+521	ideje.hr	ok	MaCoCu-HBS-1.0
+522	hrportfolio.hr	ok	MaCoCu-HBS-1.0
+523	apartmanija.hr	ok	MaCoCu-HBS-1.0
+524	putoholicari.rtl.hr	ok	MaCoCu-HBS-1.0
+525	telegram.hr	ok	MaCoCu-HBS-1.0
+526	alternativa-za-vas.com	ok	MaCoCu-HBS-1.0
+527	glasistrenovine.hr	ok	MaCoCu-HBS-1.0
+528	building-body.com	ok	MaCoCu-HBS-1.0
+529	duhovnost.net	ok	MaCoCu-HBS-1.0
+530	filmovi.hr	ok	MaCoCu-HBS-1.0
+531	infotrend.hr	ok	MaCoCu-HBS-1.0
+532	moj.hdz.hr	ok	MaCoCu-HBS-1.0
+533	matica.hr	ok	MaCoCu-HBS-1.0
+534	lokalni.vecernji.hr	ok	MaCoCu-HBS-1.0
+535	apoliticni.hr	ok	MaCoCu-HBS-1.0
+536	logicno.com	ok	MaCoCu-HBS-1.0
+537	forum.stripovi.com	ok	MaCoCu-HBS-1.0
+538	kazaliste.hr	ok	MaCoCu-HBS-1.0
+539	reboot.hr	ok	MaCoCu-HBS-1.0
+540	plivazdravlje.hr	ok	MaCoCu-HBS-1.0
+541	hr.metapedia.org	ok	MaCoCu-HBS-1.0
+542	kzz.hr	ok	MaCoCu-HBS-1.0
+543	rep.hr	ok	MaCoCu-HBS-1.0
+544	zabok.hr	ok	MaCoCu-HBS-1.0
+545	klasika.hr	ok	MaCoCu-HBS-1.0
+546	moj-film.hr	ok	MaCoCu-HBS-1.0
+547	ipazin.net	ok	MaCoCu-HBS-1.0
+548	kastela.org	ok	MaCoCu-HBS-1.0
+549	dzs.ffzg.unizg.hr	ok	MaCoCu-HBS-1.0
+550	klub-susacana.hr	ok	MaCoCu-HBS-1.0
+551	vatrogasni-portal.com	ok	MaCoCu-HBS-1.0
+552	hrastovic-inzenjering.hr	ok	MaCoCu-HBS-1.0
+553	porec.hr	ok	MaCoCu-HBS-1.0
+554	ekovjesnik.hr	ok	MaCoCu-HBS-1.0
+555	gastro.24sata.hr	ok	MaCoCu-HBS-1.0
+556	ordinacija.vecernji.hr	ok	MaCoCu-HBS-1.0
+557	mameibebe.biz.hr	ok	MaCoCu-HBS-1.0
+558	braniteljski-portal.com	ok	MaCoCu-HBS-1.0
+559	mixer.hr	ok	MaCoCu-HBS-1.0
+560	propisi.hr	ok	MaCoCu-HBS-1.0
+561	kult.com.hr	ok	MaCoCu-HBS-1.0
+562	hgk.hr	ok	MaCoCu-HBS-1.0
+563	seljacionline-forum.com	ok	MaCoCu-HBS-1.0
+564	rhzk.hr	ok	MaCoCu-HBS-1.0
+565	hemu.lzmk.hr	ok	MaCoCu-HBS-1.0
+566	ssmi.hr	ok	MaCoCu-HBS-1.0
+567	aukcije.hr	ok	MaCoCu-HBS-1.0
+568	audiofil.net	ok	MaCoCu-HBS-1.0
+569	sibenskiportal.hr	ok	MaCoCu-HBS-1.0
+570	dragovoljac.com	ok	MaCoCu-HBS-1.0
+571	vojni-ordinarijat.hr	ok	MaCoCu-HBS-1.0
+572	tockanai.hr	ok	MaCoCu-HBS-1.0
+573	smn.hr	ok	MaCoCu-HBS-1.0
+574	vukovar.hr	ok	MaCoCu-HBS-1.0
+575	plesnascena.hr	ok	MaCoCu-HBS-1.0
+576	varazdinske-vijesti.hr	ok	MaCoCu-HBS-1.0
+577	poliklinika-harni.hr	ok	MaCoCu-HBS-1.0
+578	dubrovacka-biskupija.hr	ok	MaCoCu-HBS-1.0
+579	hrturizam.hr	ok	MaCoCu-HBS-1.0
+580	biologija.com.hr	ok	MaCoCu-HBS-1.0
+581	mint.gov.hr	ok	MaCoCu-HBS-1.0
+582	d-a-z.hr	ok	MaCoCu-HBS-1.0
+583	hrvatski-fokus.hr	ok	MaCoCu-HBS-1.0
+584	hifimedia.hr	ok	MaCoCu-HBS-1.0
+585	redovnistvo.hr	ok	MaCoCu-HBS-1.0
+586	trebam.hr	ok	MaCoCu-HBS-1.0
+587	cuvarkuca.hr	ok	MaCoCu-HBS-1.0
+588	rrif.hr	ok	MaCoCu-HBS-1.0
+589	stripovi.com	ok	MaCoCu-HBS-1.0
+590	civilnodrustvo.hr	ok	MaCoCu-HBS-1.0
+591	pressedan.unin.hr	ok	MaCoCu-HBS-1.0
+592	grazia.hr	ok	MaCoCu-HBS-1.0
+593	vitamini.hr	ok	MaCoCu-HBS-1.0
+594	glam.hr	ok	MaCoCu-HBS-1.0
+595	split.hr	ok	MaCoCu-HBS-1.0
+596	direktno.hr	ok	MaCoCu-HBS-1.0
+597	povijest.net	ok	MaCoCu-HBS-1.0
+598	zupskiportal.hr	ok	MaCoCu-HBS-1.0
+599	agroportal.hr	ok	MaCoCu-HBS-1.0
+600	naucat.com	ok	MaCoCu-HBS-1.0
+601	culturenet.hr	ok	MaCoCu-HBS-1.0
+602	glas.hr	ok	MaCoCu-HBS-1.0
+603	sport023.hr	ok	MaCoCu-HBS-1.0
+604	wordplanet.org	ok	MaCoCu-HBS-1.0
+605	poduckun.net	ok	MaCoCu-HBS-1.0
+606	indizajn.rtl.hr	ok	MaCoCu-HBS-1.0
+607	linuxzasve.com	ok	MaCoCu-HBS-1.0
+608	mirovina.hr	ok	MaCoCu-HBS-1.0
+609	drumtidam.hr	ok	MaCoCu-HBS-1.0
+610	zagorje.com	ok	MaCoCu-HBS-1.0
+611	imamopravoznati.org	ok	MaCoCu-HBS-1.0
+612	nosf.sfera.hr	ok	MaCoCu-HBS-1.0
+613	crometeo.hr	ok	MaCoCu-HBS-1.0
+614	medjimurjepress.net	ok	MaCoCu-HBS-1.0
+615	zdravstveniodgoj.com	ok	MaCoCu-HBS-1.0
+616	skole.hr	ok	MaCoCu-HBS-1.0
+617	vusz.hr	ok	MaCoCu-HBS-1.0
+618	sbperiskop.net	ok	MaCoCu-HBS-1.0
+619	planb.hr	ok	MaCoCu-HBS-1.0
+620	music-box.hr	ok	MaCoCu-HBS-1.0
+621	voxfeminae.net	ok	MaCoCu-HBS-1.0
+622	biblija.biblija-govori.hr	ok	MaCoCu-HBS-1.0
+623	mojahrvatska.vecernji.hr	ok	MaCoCu-HBS-1.0
+624	lepoglava.net	ok	MaCoCu-HBS-1.0
+625	security.foi.hr	ok	MaCoCu-HBS-1.0
+626	ferata.hr	ok	MaCoCu-HBS-1.0
+627	medjugorje.hr	ok	MaCoCu-HBS-1.0
+628	grad-krk.hr	ok	MaCoCu-HBS-1.0
+629	fondovi.hr	ok	MaCoCu-HBS-1.0
+630	goodtalking.hr	ok	MaCoCu-HBS-1.0
+631	zdravobudi.hr	ok	MaCoCu-HBS-1.0
+632	wish.hr	ok	MaCoCu-HBS-1.0
+633	nacionalniportal.hr	ok	MaCoCu-HBS-1.0
+634	usscroatia.hr	ok	MaCoCu-HBS-1.0
+635	havc.hr	ok	MaCoCu-HBS-1.0
+636	autograf.hr	ok	MaCoCu-HBS-1.0
+637	fraktura.hr	ok	MaCoCu-HBS-1.0
+638	book.hr	ok	MaCoCu-HBS-1.0
+639	drame.hr	ok	MaCoCu-HBS-1.0
+640	geek.hr	ok	MaCoCu-HBS-1.0
+641	menu.hr	ok	MaCoCu-HBS-1.0
+642	oaza-bm.hr	ok	MaCoCu-HBS-1.0
+643	pcekspert.com	ok	MaCoCu-HBS-1.0
+644	korak.com.hr	ok	MaCoCu-HBS-1.0
+645	brijacnica.com	ok	MaCoCu-HBS-1.0
+646	rsp.hr	ok	MaCoCu-HBS-1.0
+647	arhiva.mobil.hr	ok	MaCoCu-HBS-1.0
+648	groupie.hr	ok	MaCoCu-HBS-1.0
+649	ngbuntovnici.hr	ok	MaCoCu-HBS-1.0
+650	exdeo.net	ok	MaCoCu-HBS-1.0
+651	cropc.net	ok	MaCoCu-HBS-1.0
+652	sat-multimedia.com	ok	MaCoCu-HBS-1.0
+653	linux.hr	ok	MaCoCu-HBS-1.0
+654	plavakamenica.hr	ok	MaCoCu-HBS-1.0
+655	kerigma-pia.hr	ok	MaCoCu-HBS-1.0
+656	tvrtke.hr	ok	MaCoCu-HBS-1.0
+657	historiografija.hr	ok	MaCoCu-HBS-1.0
+658	radnickafronta.hr	ok	MaCoCu-HBS-1.0
+659	emajstor.hr	ok	MaCoCu-HBS-1.0
+660	zna.hr	ok	MaCoCu-HBS-1.0
+661	ecco-verde.hr	ok	MaCoCu-HBS-1.0
+662	zooplus.hr	ok	MaCoCu-HBS-1.0
+663	maz.hr	ok	MaCoCu-HBS-1.0
+664	torpedo.media	ok	MaCoCu-HBS-1.0
+665	proleksis.lzmk.hr	ok	MaCoCu-HBS-1.0
+666	slatkopedija.hr	ok	MaCoCu-HBS-1.0
+667	igranje.hr	ok	MaCoCu-HBS-1.0
+668	nova-akropola.com	ok	MaCoCu-HBS-1.0
+669	huknet1.hr	ok	MaCoCu-HBS-1.0
+670	obitelj-malih-marija.com	ok	MaCoCu-HBS-1.0
+671	fot-o-grafiti.hr	ok	MaCoCu-HBS-1.0
+672	wall.hr	ok	MaCoCu-HBS-1.0
+673	rezerviraj.hr	ok	MaCoCu-HBS-1.0
+674	croatia.org	ok	MaCoCu-HBS-1.0
+675	aktivirajkarlovac.net	ok	MaCoCu-HBS-1.0
+676	koval.hr	ok	MaCoCu-HBS-1.0
+677	forum.soulsaver.hr	ok	MaCoCu-HBS-1.0
+678	mojkvart.hr	ok	MaCoCu-HBS-1.0
+679	tribun.hr	ok	MaCoCu-HBS-1.0
+680	blog.hr	ok	MaCoCu-HBS-1.0
+681	hcsp.hr	ok	MaCoCu-HBS-1.0
+682	lider.media	ok	MaCoCu-HBS-1.0
+683	hoopster.hr	ok	MaCoCu-HBS-1.0
+684	rudinapress.hr	ok	MaCoCu-HBS-1.0
+685	vjeraidjela.com	ok	MaCoCu-HBS-1.0
+686	david-udruga.hr	ok	MaCoCu-HBS-1.0
+687	pitajmamu.hr	ok	MaCoCu-HBS-1.0
+688	pjesmicezadjecu.com	ok	MaCoCu-HBS-1.0
+689	sysportal.carnet.hr	ok	MaCoCu-HBS-1.0
+690	moravek.org	ok	MaCoCu-HBS-1.0
+691	ponudadana.hr	ok	MaCoCu-HBS-1.0
+692	tehnika.lzmk.hr	ok	MaCoCu-HBS-1.0
+693	magnifikat.hr	ok	MaCoCu-HBS-1.0
+694	mojekrpice.hr	ok	MaCoCu-HBS-1.0
+695	oblizeki.com	ok	MaCoCu-HBS-1.0
+696	novo.hr	ok	MaCoCu-HBS-1.0
+697	kigo.hr	ok	MaCoCu-HBS-1.0
+698	progressive.com.hr	ok	MaCoCu-HBS-1.0
+699	trusty.hr	ok	MaCoCu-HBS-1.0
+700	balkans.aljazeera.net	ok	MaCoCu-HBS-1.0
+701	brickzine.hr	ok	MaCoCu-HBS-1.0
+702	google.hr	ok	MaCoCu-HBS-1.0
+703	support.apple.com	ok	MaCoCu-HBS-1.0
+704	jeftinije.hr	ok	MaCoCu-HBS-1.0
+705	adventisti.hr	ok	MaCoCu-HBS-1.0
+706	tvornicazdravehrane.com	ok	MaCoCu-HBS-1.0
+707	icv.hr	ok	MaCoCu-HBS-1.0
+708	rastimougospodinu.com	ok	MaCoCu-HBS-1.0
+709	formula1-dictionary.net	ok	MaCoCu-HBS-1.0
+710	startnews.hr	ok	MaCoCu-HBS-1.0
+711	istiniteprice.com	ok	MaCoCu-HBS-1.0
+712	female.hr	ok	MaCoCu-HBS-1.0
+713	hrvatski-vojnik.hr	ok	MaCoCu-HBS-1.0
+714	globalnovine.eu	ok	MaCoCu-HBS-1.0
+715	istineilaziohrani.blogspot.com	ok	MaCoCu-HBS-1.0
+716	posusje.net	ok	MaCoCu-HBS-1.0
+717	misljenja.hr	ok	MaCoCu-HBS-1.0
+718	djsport.hr	ok	MaCoCu-HBS-1.0
+719	omizio.com	ok	MaCoCu-HBS-1.0
+720	intimatemedicine.com.hr	ok	MaCoCu-HBS-1.0
+721	ambalaza.hr	ok	MaCoCu-HBS-1.0
+722	effect.hr	ok	MaCoCu-HBS-1.0
+723	libellus.hr	ok	MaCoCu-HBS-1.0
+724	patrologija.com	ok	MaCoCu-HBS-1.0
+725	rodoslovlje.hr	ok	MaCoCu-HBS-1.0
+726	gradiste.com	ok	MaCoCu-HBS-1.0
+727	forum.joomla.hr	ok	MaCoCu-HBS-1.0
+728	diy-audio.com.hr	ok	MaCoCu-HBS-1.0
+729	revijahak.hr	ok	MaCoCu-HBS-1.0
+730	biobio.hr	ok	MaCoCu-HBS-1.0
+731	obris.org	ok	MaCoCu-HBS-1.0
+732	plantea.com.hr	ok	MaCoCu-HBS-1.0
+733	zebra.hr	ok	MaCoCu-HBS-1.0
+734	e.math.hr	ok	MaCoCu-HBS-1.0
+735	svijet-kvalitete.com	ok	MaCoCu-HBS-1.0
+736	stav.cenzura.hr	ok	MaCoCu-HBS-1.0
+737	splendordomini.blogspot.com	ok	MaCoCu-HBS-1.0
+738	forum.abchepatitis.com.hr	ok	MaCoCu-HBS-1.0
+739	povijest.hr	ok	MaCoCu-HBS-1.0
+740	eskola.chem.pmf.hr	ok	MaCoCu-HBS-1.0
+741	mobil.hr	ok	MaCoCu-HBS-1.0
+742	apartmaninfo.hr	ok	MaCoCu-HBS-1.0
+743	nsf-journal.hr	ok	MaCoCu-HBS-1.0
+744	anarhisticka-biblioteka.net	ok	MaCoCu-HBS-1.0
+745	crowave.com	ok	MaCoCu-HBS-1.0
+746	plaviured.hr	ok	MaCoCu-HBS-1.0
+747	brendfulness.com	ok	MaCoCu-HBS-1.0
+748	bmwautoklub.hr	ok	MaCoCu-HBS-1.0
+749	izradastranica.info	ok	MaCoCu-HBS-1.0
+750	wishmama.hr	ok	MaCoCu-HBS-1.0
+751	hrvatskiglas-berlin.eu	ok	MaCoCu-HBS-1.0
+752	hrvatskonebo.org	ok	MaCoCu-HBS-1.0
+753	idoc.pub	ok	MaCoCu-HBS-1.0
+754	athena.muo.hr	ok	MaCoCu-HBS-1.0
+755	nacionalno.hr	ok	MaCoCu-HBS-1.0
+756	shopbuilder.hr	ok	MaCoCu-HBS-1.0
+757	vid.hr	ok	MaCoCu-HBS-1.0
+758	zenskikutak.hr	ok	MaCoCu-HBS-1.0
+759	green.hr	ok	MaCoCu-HBS-1.0
+760	blog.meteo-info.hr	ok	MaCoCu-HBS-1.0
+761	monfortanci.com	ok	MaCoCu-HBS-1.0
+762	szssplit.hr	ok	MaCoCu-HBS-1.0
+763	christusrexhrvatska.blogspot.com	ok	MaCoCu-HBS-1.0
+764	ec.europa.eu	ok	MaCoCu-HBS-1.0
+765	poskok.info	ok	MaCoCu-HBS-1.0
+766	stav.com.hr	ok	MaCoCu-HBS-1.0
+767	suvremenazena.hr	ok	MaCoCu-HBS-1.0
+768	medioteka.hr	ok	MaCoCu-HBS-1.0
+769	cimerfraj.hr	ok	MaCoCu-HBS-1.0
+770	diyaudio.com.hr	ok	MaCoCu-HBS-1.0
+771	savjetnikuspjeha.com	ok	MaCoCu-HBS-1.0
+772	digitalno.eu	ok	MaCoCu-HBS-1.0
+773	superportal.hr	ok	MaCoCu-HBS-1.0
+774	kapitalac.wordpress.com	ok	MaCoCu-HBS-1.0
+775	nszssh.hr	ok	MaCoCu-HBS-1.0
+776	tripologia.com	ok	MaCoCu-HBS-1.0
+777	markopolosport.net	ok	MaCoCu-HBS-1.0
+778	ramiro.hr	ok	MaCoCu-HBS-1.0
+779	proteka.hr	ok	MaCoCu-HBS-1.0
+780	party.hr	ok	MaCoCu-HBS-1.0
+781	tockanai.net	ok	MaCoCu-HBS-1.0
+782	mojmag.com	ok	MaCoCu-HBS-1.0
+783	regate.com.hr	ok	MaCoCu-HBS-1.0
+784	hvm.mdc.hr	ok	MaCoCu-HBS-1.0
+785	gkc-petrinja.hr	ok	MaCoCu-HBS-1.0
+786	soundguardian.com	ok	MaCoCu-HBS-1.0
+787	ljubavni-oglasnik.net	ok	MaCoCu-HBS-1.0
+788	donbosco.hr	ok	MaCoCu-HBS-1.0
+789	bus.hr	ok	MaCoCu-HBS-1.0
+790	manager.hr	ok	MaCoCu-HBS-1.0
+791	vanipedia.org	ok	MaCoCu-HBS-1.0
+792	edupoint.carnet.hr	ok	MaCoCu-HBS-1.0
+793	turistickeprice.hr	ok	MaCoCu-HBS-1.0
+794	plantagea.hr	ok	MaCoCu-HBS-1.0
+795	vkkrka.hr	ok	MaCoCu-HBS-1.0
+796	rossovka.blog.hr	ok	MaCoCu-HBS-1.0
+797	zgkult.eu	ok	MaCoCu-HBS-1.0
+798	trcanje.hr	ok	MaCoCu-HBS-1.0
+799	nismosame.com	ok	MaCoCu-HBS-1.0
+800	suradancer.com	ok	MaCoCu-HBS-1.0
+801	100posto.hr	ok	MaCoCu-HBS-1.0
+802	ravnododna.com	ok	MaCoCu-HBS-1.0
+803	rastimo-u-vjeri.com	ok	MaCoCu-HBS-1.0
+804	ictbusiness.info	ok	MaCoCu-HBS-1.0
+805	megabooker.hr	ok	MaCoCu-HBS-1.0
+806	edoc.sabor.hr	ok	MaCoCu-HBS-1.0
+807	mail.drame.hr	ok	MaCoCu-HBS-1.0
+808	wsurf.net	ok	MaCoCu-HBS-1.0
+809	izvoz.gov.hr	ok	MaCoCu-HBS-1.0
+810	epoha.com.hr	ok	MaCoCu-HBS-1.0
+811	vitalabo.hr	ok	MaCoCu-HBS-1.0
+812	oslobadjanje.com	ok	MaCoCu-HBS-1.0
+813	danica.hr	ok	MaCoCu-HBS-1.0
+814	elegant.hr	ok	MaCoCu-HBS-1.0
+815	zivotna-skola.eu	ok	MaCoCu-HBS-1.0
+816	ratnakronikasplita.com	ok	MaCoCu-HBS-1.0
+817	volim-meso.hr	ok	MaCoCu-HBS-1.0
+818	zdenac.org	ok	MaCoCu-HBS-1.0
+819	hcjz.hr	ok	MaCoCu-HBS-1.0
+820	astrotarot.eu	ok	MaCoCu-HBS-1.0
+821	cukar.com.hr	ok	MaCoCu-HBS-1.0
+822	hagio.hr	ok	MaCoCu-HBS-1.0
+823	stari.dizajn.hr	ok	MaCoCu-HBS-1.0
+824	zuti-titl.com	ok	MaCoCu-HBS-1.0
+825	cromalternativemoney.org	ok	MaCoCu-HBS-1.0
+826	novasol.hr	ok	MaCoCu-HBS-1.0
+827	iusinfo.hr	ok	MaCoCu-HBS-1.0
+828	womeninadria.com	ok	MaCoCu-HBS-1.0
+829	elegancereef.com	ok	MaCoCu-HBS-1.0
+830	rogotin.hr	ok	MaCoCu-HBS-1.0
+831	smartphonehrvatska.com	ok	MaCoCu-HBS-1.0
+832	zes-split.hr	ok	MaCoCu-HBS-1.0
+833	hoplon.hr	ok	MaCoCu-HBS-1.0
+834	zicer.hr	ok	MaCoCu-HBS-1.0
+835	burza.com.hr	ok	MaCoCu-HBS-1.0
+836	mimladi.hr	ok	MaCoCu-HBS-1.0
+837	girlygirliness.blogspot.com	ok	MaCoCu-HBS-1.0
+838	sound-news.net	ok	MaCoCu-HBS-1.0
+839	sjedi5.com	ok	MaCoCu-HBS-1.0
+840	dvoznak.com	ok	MaCoCu-HBS-1.0
+841	alternativa-forum.com	ok	MaCoCu-HBS-1.0
+842	jglobitelj.hr	ok	MaCoCu-HBS-1.0
+843	phralipen.hr	ok	MaCoCu-HBS-1.0
+844	lokalpatrioti-rijeka.com	ok	MaCoCu-HBS-1.0
+845	recenzijefilmova.com	ok	MaCoCu-HBS-1.0
+846	vauvau.net	ok	MaCoCu-HBS-1.0
+847	ombudsman.hr	ok	MaCoCu-HBS-1.0
+848	sanjarica.hr	ok	MaCoCu-HBS-1.0
+849	gayiskreno.blogspot.com	ok	MaCoCu-HBS-1.0
+850	monitor.hr	ok	MaCoCu-HBS-1.0
+851	suvremena.hr	ok	MaCoCu-HBS-1.0
+852	labinskakomuna.eu	ok	MaCoCu-HBS-1.0
+853	marker.hr	ok	MaCoCu-HBS-1.0
+854	possector.hr	ok	MaCoCu-HBS-1.0
+855	dblog.hr	ok	MaCoCu-HBS-1.0
+856	srce.unizg.hr	ok	MaCoCu-HBS-1.0
+857	akademija-art.hr	ok	MaCoCu-HBS-1.0
+858	medikus.hr	ok	MaCoCu-HBS-1.0
+859	libido.hr	ok	MaCoCu-HBS-1.0
+860	hotspots.net.hr	ok	MaCoCu-HBS-1.0
+861	novalja.cool	ok	MaCoCu-HBS-1.0
+862	arbona.hr	ok	MaCoCu-HBS-1.0
+863	zabavni.hr	ok	MaCoCu-HBS-1.0
+864	manjgura.hr	ok	MaCoCu-HBS-1.0
+865	usluga.hr	ok	MaCoCu-HBS-1.0
+866	putujmojeftino.com	ok	MaCoCu-HBS-1.0
+867	pinova.hr	ok	MaCoCu-HBS-1.0
+868	show.hr	ok	MaCoCu-HBS-1.0
+869	muzevnibudite.com	ok	MaCoCu-HBS-1.0
+870	thursdaycooking.com.hr	ok	MaCoCu-HBS-1.0
+871	vjeko-rwanda.info	ok	MaCoCu-HBS-1.0
+872	skac.hr	ok	MaCoCu-HBS-1.0
+873	venia-mag.net	ok	MaCoCu-HBS-1.0
+874	svjetlanavalentic-enky.com	ok	MaCoCu-HBS-1.0
+875	hvar.hr	ok	MaCoCu-HBS-1.0
+876	knjiga-znanja-veda.hr	ok	MaCoCu-HBS-1.0
+877	malinca.hr	ok	MaCoCu-HBS-1.0
+878	paraf.hr	ok	MaCoCu-HBS-1.0
+879	bravo.hr	ok	MaCoCu-HBS-1.0
+880	forum.f1-hr.com	ok	MaCoCu-HBS-1.0
+881	eurosmijeh.blog.hr	ok	MaCoCu-HBS-1.0
+882	hull.hr	ok	MaCoCu-HBS-1.0
+883	internetzarada.org	ok	MaCoCu-HBS-1.0
+884	3sporta.com	ok	MaCoCu-HBS-1.0
+885	fantasy-hr.com	ok	MaCoCu-HBS-1.0
+886	svjedocanstva.com	ok	MaCoCu-HBS-1.0
+887	likechocolate.net	ok	MaCoCu-HBS-1.0
+888	zupcica.hr	ok	MaCoCu-HBS-1.0
+889	kamenjar.com	ok	MaCoCu-HBS-1.0
+890	fightchannel.hr	ok	MaCoCu-HBS-1.0
+891	istrazime.com	ok	MaCoCu-HBS-1.0
+892	regionalni.com	ok	MaCoCu-HBS-1.0
+893	putovanja.nomago.hr	ok	MaCoCu-HBS-1.0
+894	webgradnja.hr	ok	MaCoCu-HBS-1.0
+895	racing.hr	ok	MaCoCu-HBS-1.0
+896	nba.pulsmedia.hr	ok	MaCoCu-HBS-1.0
+897	saiorg.hr	ok	MaCoCu-HBS-1.0
+898	virogena.hr	ok	MaCoCu-HBS-1.0
+899	nepoznatizagreb.blog.hr	ok	MaCoCu-HBS-1.0
+900	selca.hr	ok	MaCoCu-HBS-1.0
+901	deckardovkutak.wordpress.com	ok	MaCoCu-HBS-1.0
+902	svjosip-zenica.com	ok	MaCoCu-HBS-1.0
+903	mobis.hr	ok	MaCoCu-HBS-1.0
+904	samsung.com	ok	MaCoCu-HBS-1.0
+905	bswireless.hr	ok	MaCoCu-HBS-1.0
+906	mi3dot.org	ok	MaCoCu-HBS-1.0
+907	eclectica.hr	ok	MaCoCu-HBS-1.0
+908	iskrica.com	ok	MaCoCu-HBS-1.0
+909	moscroatia.com	ok	MaCoCu-HBS-1.0
+910	tomislavjonjic.iz.hr	ok	MaCoCu-HBS-1.0
+911	extravagant.com.hr	ok	MaCoCu-HBS-1.0
+912	sestre-scj.hr	ok	MaCoCu-HBS-1.0
+913	ekologija.hr	ok	MaCoCu-HBS-1.0
+914	halo-doktore.hr	ok	MaCoCu-HBS-1.0
+915	potlista.com	ok	MaCoCu-HBS-1.0
+916	dormeo.com.hr	ok	MaCoCu-HBS-1.0
+917	seljaci.org	ok	MaCoCu-HBS-1.0
+918	reci.hr	ok	MaCoCu-HBS-1.0
+919	najboljeuhrvatskoj.info	ok	MaCoCu-HBS-1.0
+920	hr.izzi.digital	ok	MaCoCu-HBS-1.0
+921	ecb.europa.eu	ok	MaCoCu-HBS-1.0
+922	meblo.hr	ok	MaCoCu-HBS-1.0
+923	amdg.eu	ok	MaCoCu-HBS-1.0
+924	poriluk.com	ok	MaCoCu-HBS-1.0
+925	homemadebyb.blogspot.com	ok	MaCoCu-HBS-1.0
+926	okusi.eu	ok	MaCoCu-HBS-1.0
+927	svartberg.org	ok	MaCoCu-HBS-1.0
+928	living-democracy.com	ok	MaCoCu-HBS-1.0
+929	autopress.hr	ok	MaCoCu-HBS-1.0
+930	mrak.org	ok	MaCoCu-HBS-1.0
+931	vodic.dazd.hr	ok	MaCoCu-HBS-1.0
+932	europskaunija.yolasite.com	ok	MaCoCu-HBS-1.0
+933	strazarni-lopov.blogspot.com	ok	MaCoCu-HBS-1.0
+934	cvrcakvt.hr	ok	MaCoCu-HBS-1.0
+935	pustopoljina.net	ok	MaCoCu-HBS-1.0
+936	forum.malivlakovi.com.hr	ok	MaCoCu-HBS-1.0
+937	rpasd.hr	ok	MaCoCu-HBS-1.0
+938	naelektrisaniguster.blog.hr	ok	MaCoCu-HBS-1.0
+939	ljekarna-pablo.hr	ok	MaCoCu-HBS-1.0
+940	nasiljudi-gentenostra.hr	ok	MaCoCu-HBS-1.0
+941	frama-hercegovina.com	ok	MaCoCu-HBS-1.0
+942	make-up.hr	ok	MaCoCu-HBS-1.0
+943	travel-advisor.eu	ok	MaCoCu-HBS-1.0
+944	adrialece.hr	ok	MaCoCu-HBS-1.0
+945	split-techcity.com	ok	MaCoCu-HBS-1.0
+946	dux-nekretnine.hr	ok	MaCoCu-HBS-1.0
+947	umn-split.hr	ok	MaCoCu-HBS-1.0
+948	cosmo2503.blogspot.com	ok	MaCoCu-HBS-1.0
+949	droid.hr	ok	MaCoCu-HBS-1.0
+950	zemris.fer.hr	ok	MaCoCu-HBS-1.0
+951	blogeri.gelender.hr	ok	MaCoCu-HBS-1.0
+952	nikon.hr	ok	MaCoCu-HBS-1.0
+953	cro-eu.com	ok	MaCoCu-HBS-1.0
+954	klikni.hr	ok	MaCoCu-HBS-1.0
+955	falis.com.hr	ok	MaCoCu-HBS-1.0
+956	opereta.hr	ok	MaCoCu-HBS-1.0
+957	livecamcroatia.com	ok	MaCoCu-HBS-1.0
+958	libri.hr	ok	MaCoCu-HBS-1.0
+959	nachtfresser.blog.hr	ok	MaCoCu-HBS-1.0
+960	moja-dijeta.com.hr	ok	MaCoCu-HBS-1.0
+961	budidobro.com	ok	MaCoCu-HBS-1.0
+962	iep.hr	ok	MaCoCu-HBS-1.0
+963	tower-center-rijeka.hr	ok	MaCoCu-HBS-1.0
+964	perzepolis.hr	ok	MaCoCu-HBS-1.0
+965	forum.cazin.net	ok	MaCoCu-HBS-1.0
+966	bsk-zmaj.hr	ok	MaCoCu-HBS-1.0
+967	oie.hr	ok	MaCoCu-HBS-1.0
+968	webstrategija.com	ok	MaCoCu-HBS-1.0
+969	top-lista.hr	ok	MaCoCu-HBS-1.0
+970	lib.irb.hr	ok	MaCoCu-HBS-1.0
+971	arhiva.mobilnost.hr	ok	MaCoCu-HBS-1.0
+972	macke.hr	ok	MaCoCu-HBS-1.0
+973	hr.johnnybet.com	ok	MaCoCu-HBS-1.0
+974	astrologijatarot.com	ok	MaCoCu-HBS-1.0
+975	sodnapraksa.si	ok	MaCoCu-SI-1.0
+976	slo-tech.com	ok	MaCoCu-SI-1.0
+977	dkom.si	ok	MaCoCu-SI-1.0
+978	uradni-list.si	ok	MaCoCu-SI-1.0
+979	rtvslo.si	ok	MaCoCu-SI-1.0
+980	pisrs.si	ok	MaCoCu-SI-1.0
+981	radiostudent.si	ok	MaCoCu-SI-1.0
+982	www2.gov.si	ok	MaCoCu-SI-1.0
+983	ringaraja.net	ok	MaCoCu-SI-1.0
+984	primorske.si	ok	MaCoCu-SI-1.0
+985	sodisce.si	ok	MaCoCu-SI-1.0
+986	monitor.si	ok	MaCoCu-SI-1.0
+987	regionalobala.si	ok	MaCoCu-SI-1.0
+988	zurnal24.si	ok	MaCoCu-SI-1.0
+989	mladina.si	ok	MaCoCu-SI-1.0
+990	publishwall.si	ok	MaCoCu-SI-1.0
+991	siol.net	ok	MaCoCu-SI-1.0
+992	tax-fin-lex.si	ok	MaCoCu-SI-1.0
+993	nl.ijs.si	ok	MaCoCu-SI-1.0
+994	casnik.si	ok	MaCoCu-SI-1.0
+995	dnevnik.si	ok	MaCoCu-SI-1.0
+996	slv.acousticbiotech.com	ok	MaCoCu-SI-1.0
+997	novice.svet24.si	ok	MaCoCu-SI-1.0
+998	politikis.si	ok	MaCoCu-SI-1.0
+999	nova24tv.si	ok	MaCoCu-SI-1.0
+1000	portalplus.si	ok	MaCoCu-SI-1.0
+1001	www2.arnes.si	ok	MaCoCu-SI-1.0
+1002	elektronik.si	ok	MaCoCu-SI-1.0
+1003	pozitivke.net	ok	MaCoCu-SI-1.0
+1004	govorise.metropolitan.si	ok	MaCoCu-SI-1.0
+1005	joker.muzej.si	ok	MaCoCu-SI-1.0
+1006	deloindom.delo.si	ok	MaCoCu-SI-1.0
+1007	lex-localis.info	ok	MaCoCu-SI-1.0
+1008	racunovodja.com	ok	MaCoCu-SI-1.0
+1009	vsi.si	ok	MaCoCu-SI-1.0
+1010	us-rs.si	ok	MaCoCu-SI-1.0
+1011	onaplus.delo.si	ok	MaCoCu-SI-1.0
+1012	mojaobcina.si	ok	MaCoCu-SI-1.0
+1013	vzajemnost.si	ok	MaCoCu-SI-1.0
+1014	enarocanje.si	ok	MaCoCu-SI-1.0
+1015	viva.si	ok	MaCoCu-SI-1.0
+1016	alter.si	ok	MaCoCu-SI-1.0
+1017	pesjanar.si	ok	MaCoCu-SI-1.0
+1018	moj-letak.si	ok	MaCoCu-SI-1.0
+1019	1zavse.si	ok	MaCoCu-SI-1.0
+1020	beta.publishwall.si	ok	MaCoCu-SI-1.0
+1021	mojmojster.net	ok	MaCoCu-SI-1.0
+1022	pogledi.delo.si	ok	MaCoCu-SI-1.0
+1023	radio.ognjisce.si	ok	MaCoCu-SI-1.0
+1024	citymagazine.si	ok	MaCoCu-SI-1.0
+1025	radio1.si	ok	MaCoCu-SI-1.0
+1026	bos.zrc-sazu.si	ok	MaCoCu-SI-1.0
+1027	znanjesveta.com	ok	MaCoCu-SI-1.0
+1028	old.delo.si	ok	MaCoCu-SI-1.0
+1029	matejzalar.si	ok	MaCoCu-SI-1.0
+1030	mtb-forum.si	ok	MaCoCu-SI-1.0
+1031	micna.slovenskenovice.si	ok	MaCoCu-SI-1.0
+1032	sloski.si	ok	MaCoCu-SI-1.0
+1033	fran.si	ok	MaCoCu-SI-1.0
+1034	viri.cjvt.si	ok	MaCoCu-SI-1.0
+1035	gov.si	ok	MaCoCu-SI-1.0
+1036	mladipodjetnik.si	ok	MaCoCu-SI-1.0
+1037	pesem.si	ok	MaCoCu-SI-1.0
+1038	moja-lekarna.com	ok	MaCoCu-SI-1.0
+1039	zofijini.net	ok	MaCoCu-SI-1.0
+1040	paranoid.si	ok	MaCoCu-SI-1.0
+1041	delo.si	ok	MaCoCu-SI-1.0
+1042	kulinarika.net	ok	MaCoCu-SI-1.0
+1043	tabla.mtb.si	ok	MaCoCu-SI-1.0
+1044	locutio.si	ok	MaCoCu-SI-1.0
+1045	forum.zevs.si	ok	MaCoCu-SI-1.0
+1046	nogomania.com	ok	MaCoCu-SI-1.0
+1047	predlagam.vladi.si	ok	MaCoCu-SI-1.0
+1048	revija.ognjisce.si	ok	MaCoCu-SI-1.0
+1049	iusinfo.si	ok	MaCoCu-SI-1.0
+1050	docplayer.si	ok	MaCoCu-SI-1.0
+1051	maribor24.si	ok	MaCoCu-SI-1.0
+1052	vestnik.si	ok	MaCoCu-SI-1.0
+1053	kamnik.si	ok	MaCoCu-SI-1.0
+1054	instore.si	ok	MaCoCu-SI-1.0
+1055	zelenaslovenija.si	ok	MaCoCu-SI-1.0
+1056	zaveza.si	ok	MaCoCu-SI-1.0
+1057	pzs.si	ok	MaCoCu-SI-1.0
+1058	za-misli.si	ok	MaCoCu-SI-1.0
+1059	ludliteratura.si	ok	MaCoCu-SI-1.0
+1060	jabuk.si	ok	MaCoCu-SI-1.0
+1061	forum.modelarji.com	ok	MaCoCu-SI-1.0
+1062	avtomanija.si	ok	MaCoCu-SI-1.0
+1063	mojaleta.si	ok	MaCoCu-SI-1.0
+1064	intimatemedicine.si	ok	MaCoCu-SI-1.0
+1065	tenisportal.si	ok	MaCoCu-SI-1.0
+1066	vest.si	ok	MaCoCu-SI-1.0
+1067	edusinfo.si	ok	MaCoCu-SI-1.0
+1068	bambino.si	ok	MaCoCu-SI-1.0
+1069	s5tech.net	ok	MaCoCu-SI-1.0
+1070	sigic.si	ok	MaCoCu-SI-1.0
+1071	gzs.si	ok	MaCoCu-SI-1.0
+1072	kamra.si	ok	MaCoCu-SI-1.0
+1073	mediawatch.mirovni-institut.si	ok	MaCoCu-SI-1.0
+1074	avto-magazin.metropolitan.si	ok	MaCoCu-SI-1.0
+1075	celje.info	ok	MaCoCu-SI-1.0
+1076	vozimvolvo.si	ok	MaCoCu-SI-1.0
+1077	svetloba.si	ok	MaCoCu-SI-1.0
+1078	avtomobilizem.com	ok	MaCoCu-SI-1.0
+1079	findinfo.si	ok	MaCoCu-SI-1.0
+1080	lit.ijs.si	ok	MaCoCu-SI-1.0
+1081	stirikolesniki.si	ok	MaCoCu-SI-1.0
+1082	mobile.si	ok	MaCoCu-SI-1.0
+1083	blog.uporabnastran.si	ok	MaCoCu-SI-1.0
+1084	rokometna-zveza.si	ok	MaCoCu-SI-1.0
+1085	igre123.com	ok	MaCoCu-SI-1.0
+1086	mm-arhiv.si	ok	MaCoCu-SI-1.0
+1087	policija.si	ok	MaCoCu-SI-1.0
+1088	avto.finance.si	ok	MaCoCu-SI-1.0
+1089	insolvinfo.si	ok	MaCoCu-SI-1.0
+1090	arhiv.fokuspokus.si	ok	MaCoCu-SI-1.0
+1091	preberite.si	ok	MaCoCu-SI-1.0
+1092	zvpl.com	ok	MaCoCu-SI-1.0
+1093	telex.si	ok	MaCoCu-SI-1.0
+1094	sl.wikiversity.org	ok	MaCoCu-SI-1.0
+1095	domzalec.si	ok	MaCoCu-SI-1.0
+1096	maxximum.si	ok	MaCoCu-SI-1.0
+1097	skupaj.si	ok	MaCoCu-SI-1.0
+1098	paradaplesa.si	ok	MaCoCu-SI-1.0
+1099	nas-stik.si	ok	MaCoCu-SI-1.0
+1100	tehnozvezdje.si	ok	MaCoCu-SI-1.0
+1101	morel.si	ok	MaCoCu-SI-1.0
+1102	rastline.com	ok	MaCoCu-SI-1.0
+1103	arhiv.gorenjskiglas.si	ok	MaCoCu-SI-1.0
+1104	gore-ljudje.si	ok	MaCoCu-SI-1.0
+1105	dolenjskilist.si	ok	MaCoCu-SI-1.0
+1106	varcevanje-energije.si	ok	MaCoCu-SI-1.0
+1107	volan.si	ok	MaCoCu-SI-1.0
+1108	izvozniki.finance.si	ok	MaCoCu-SI-1.0
+1109	profanity.si	ok	MaCoCu-SI-1.0
+1110	ekipa.svet24.si	ok	MaCoCu-SI-1.0
+1111	realmadrid.si	ok	MaCoCu-SI-1.0
+1112	bajta.si	ok	MaCoCu-SI-1.0
+1113	vzmd.si	ok	MaCoCu-SI-1.0
+1114	bukla.si	ok	MaCoCu-SI-1.0
+1115	edus.iusinfo.si	ok	MaCoCu-SI-1.0
+1116	amzs.si	ok	MaCoCu-SI-1.0
+1117	slovenec.org	ok	MaCoCu-SI-1.0
+1118	vlaki.info	ok	MaCoCu-SI-1.0
+1119	elle.metropolitan.si	ok	MaCoCu-SI-1.0
+1120	ezb.ijs.si	ok	MaCoCu-SI-1.0
+1121	regionalgoriska.si	ok	MaCoCu-SI-1.0
+1122	narobe.si	ok	MaCoCu-SI-1.0
+1123	wiki.fkkt.uni-lj.si	ok	MaCoCu-SI-1.0
+1124	snportal.si	ok	MaCoCu-SI-1.0
+1125	audio-kontakt.com	ok	MaCoCu-SI-1.0
+1126	omisli.si	ok	MaCoCu-SI-1.0
+1127	bralnica.com	ok	MaCoCu-SI-1.0
+1128	smucisca.net	ok	MaCoCu-SI-1.0
+1129	e-fotografija.si	ok	MaCoCu-SI-1.0
+1130	smar-team-org.si	ok	MaCoCu-SI-1.0
+1131	nsdlu.si	ok	MaCoCu-SI-1.0
+1132	pefprints.pef.uni-lj.si	ok	MaCoCu-SI-1.0
+1133	gorenjskiglas.si	ok	MaCoCu-SI-1.0
+1134	mimovrste.com	ok	MaCoCu-SI-1.0
+1135	old.nuk.uni-lj.si	ok	MaCoCu-SI-1.0
+1136	mojkraj.info	ok	MaCoCu-SI-1.0
+1137	ljubljana.si	ok	MaCoCu-SI-1.0
+1138	jw.org	ok	MaCoCu-SI-1.0
+1139	renault-klub.si	ok	MaCoCu-SI-1.0
+1140	teniska-zveza.si	ok	MaCoCu-SI-1.0
+1141	had.si	ok	MaCoCu-SI-1.0
+1142	sa-agencija.si	ok	MaCoCu-SI-1.0
+1143	notranjskoprimorske.si	ok	MaCoCu-SI-1.0
+1144	primerjam.si	ok	MaCoCu-SI-1.0
+1145	dj-slovenija.si	ok	MaCoCu-SI-1.0
+1146	avto-fokus.si	ok	MaCoCu-SI-1.0
+1147	bogastvozdravja.si	ok	MaCoCu-SI-1.0
+1148	dobreknjige.si	ok	MaCoCu-SI-1.0
+1149	student.si	ok	MaCoCu-SI-1.0
+1150	podarimo.si	ok	MaCoCu-SI-1.0
+1151	dobrakarma.si	ok	MaCoCu-SI-1.0
+1152	tednik.si	ok	MaCoCu-SI-1.0
+1153	vecer.com	ok	MaCoCu-SI-1.0
+1154	druzina.si	ok	MaCoCu-SI-1.0
+1155	domzalske-novice.si	ok	MaCoCu-SI-1.0
+1156	pomagamo-zivalim.si	ok	MaCoCu-SI-1.0
+1157	airbeletrina.si	ok	MaCoCu-SI-1.0
+1158	rocker.si	ok	MaCoCu-SI-1.0
+1159	podjetnik.si	ok	MaCoCu-SI-1.0
+1160	dostop.si	ok	MaCoCu-SI-1.0
+1161	sls.si	ok	MaCoCu-SI-1.0
+1162	nijz.si	ok	MaCoCu-SI-1.0
+1163	tekaskiforum.net	ok	MaCoCu-SI-1.0
+1164	cosmopolitan.metropolitan.si	ok	MaCoCu-SI-1.0
+1165	bodieko.si	ok	MaCoCu-SI-1.0
+1166	posavskiobzornik.si	ok	MaCoCu-SI-1.0
+1167	24kul.si	ok	MaCoCu-SI-1.0
+1168	lunin.net	ok	MaCoCu-SI-1.0
+1169	poslovni-bazar.si	ok	MaCoCu-SI-1.0
+1170	lokalne-ajdovscina.si	ok	MaCoCu-SI-1.0
+1171	metinalista.si	ok	MaCoCu-SI-1.0
+1172	mojpogled.com	ok	MaCoCu-SI-1.0
+1173	enavtika.si	ok	MaCoCu-SI-1.0
+1174	sensa.metropolitan.si	ok	MaCoCu-SI-1.0
+1175	nomago.si	ok	MaCoCu-SI-1.0
+1176	oblizniprste.si	ok	MaCoCu-SI-1.0
+1177	kud-logos.si	ok	MaCoCu-SI-1.0
+1178	nivaoffroadteam.com	ok	MaCoCu-SI-1.0
+1179	zares.si	ok	MaCoCu-SI-1.0
+1180	gurman.eu	ok	MaCoCu-SI-1.0
+1181	metropolitan.si	ok	MaCoCu-SI-1.0
+1182	velenje.com	ok	MaCoCu-SI-1.0
+1183	kamnik.info	ok	MaCoCu-SI-1.0
+1184	horoskop.si	ok	MaCoCu-SI-1.0
+1185	forum.hamradio.si	ok	MaCoCu-SI-1.0
+1186	efnet.si	ok	MaCoCu-SI-1.0
+1187	rad-dobrojem.si	ok	MaCoCu-SI-1.0
+1188	zdravstvena.info	ok	MaCoCu-SI-1.0
+1189	svet-el.si	ok	MaCoCu-SI-1.0
+1190	nivaoffroadteam.rafter.si	ok	MaCoCu-SI-1.0
+1191	podcrto.si	ok	MaCoCu-SI-1.0
+1192	avtofil.si	ok	MaCoCu-SI-1.0
+1193	zenskisvet.si	ok	MaCoCu-SI-1.0
+1194	hervardi.com	ok	MaCoCu-SI-1.0
+1195	jskd.si	ok	MaCoCu-SI-1.0
+1196	cangura.com	ok	MaCoCu-SI-1.0
+1197	socialnidemokrati.si	ok	MaCoCu-SI-1.0
+1198	katoliska-cerkev.si	ok	MaCoCu-SI-1.0
+1199	dobranovica.si	ok	MaCoCu-SI-1.0
+1200	murjeplovec.mojforum.si	ok	MaCoCu-SI-1.0
+1201	inst-antonatrstenjaka.si	ok	MaCoCu-SI-1.0
+1202	citylife.si	ok	MaCoCu-SI-1.0
+1203	lokalec.si	ok	MaCoCu-SI-1.0
+1204	topshop.si	ok	MaCoCu-SI-1.0
+1205	arhiv.kzs.si	ok	MaCoCu-SI-1.0
+1206	tatjana-malec.si	ok	MaCoCu-SI-1.0
+1207	data.si	ok	MaCoCu-SI-1.0
+1208	rsg.si	ok	MaCoCu-SI-1.0
+1209	mislec.net	ok	MaCoCu-SI-1.0
+1210	forum-tezave-pomagajmosi.mojforum.si	ok	MaCoCu-SI-1.0
+1211	sd-sport.si	ok	MaCoCu-SI-1.0
+1212	strankasmc.si	ok	MaCoCu-SI-1.0
+1213	fashion.si	ok	MaCoCu-SI-1.0
+1214	modna.si	ok	MaCoCu-SI-1.0
+1215	mbreport.si	ok	MaCoCu-SI-1.0
+1216	parlameter.si	ok	MaCoCu-SI-1.0
+1217	ktv-ormoz.si	ok	MaCoCu-SI-1.0
+1218	oglasi.si	ok	MaCoCu-SI-1.0
+1219	ubuntu.si	ok	MaCoCu-SI-1.0
+1220	skupnostobcin.si	ok	MaCoCu-SI-1.0
+1221	torekobpetih.si	ok	MaCoCu-SI-1.0
+1222	novacebela.mojforum.si	ok	MaCoCu-SI-1.0
+1223	sta.si	ok	MaCoCu-SI-1.0
+1224	bicikel.com	ok	MaCoCu-SI-1.0
+1225	cudovita.si	ok	MaCoCu-SI-1.0
+1226	nova-gorica.si	ok	MaCoCu-SI-1.0
+1227	ljudmila.org	ok	MaCoCu-SI-1.0
+1228	davkoplacevalci.com	ok	MaCoCu-SI-1.0
+1229	skofija-sobota.si	ok	MaCoCu-SI-1.0
+1230	old.radiostudent.si	ok	MaCoCu-SI-1.0
+1231	dobrinasveti.si	ok	MaCoCu-SI-1.0
+1232	mojpes.net	ok	MaCoCu-SI-1.0
+1233	kozjansko.info	ok	MaCoCu-SI-1.0
+1234	merkur.si	ok	MaCoCu-SI-1.0
+1235	elektron.si	ok	MaCoCu-SI-1.0
+1236	krtina.com	ok	MaCoCu-SI-1.0
+1237	gartlc.mojforum.si	ok	MaCoCu-SI-1.0
+1238	vrabecanarhist.eu	ok	MaCoCu-SI-1.0
+1239	besedilo.si	ok	MaCoCu-SI-1.0
+1240	molitev.net	ok	MaCoCu-SI-1.0
+1241	zenska.hudo.com	ok	MaCoCu-SI-1.0
+1242	eucbeniki.sio.si	ok	MaCoCu-SI-1.0
+1243	obramba.com	ok	MaCoCu-SI-1.0
+1244	e-kurs.si	ok	MaCoCu-SI-1.0
+1245	ipop.si	ok	MaCoCu-SI-1.0
+1246	forum.finance.si	ok	MaCoCu-SI-1.0
+1247	mc-celje.si	ok	MaCoCu-SI-1.0
+1248	adp.fdv.uni-lj.si	ok	MaCoCu-SI-1.0
+1249	slonep.net	ok	MaCoCu-SI-1.0
+1250	obrazislovenskihpokrajin.si	ok	MaCoCu-SI-1.0
+1251	pozareport.si	ok	MaCoCu-SI-1.0
+1252	cvek123.com	ok	MaCoCu-SI-1.0
+1253	gasilci.org	ok	MaCoCu-SI-1.0
+1254	energetika-portal.si	ok	MaCoCu-SI-1.0
+1255	travelsdocbox.com	ok	MaCoCu-SI-1.0
+1256	stara.odbojka.si	ok	MaCoCu-SI-1.0
+1257	ceneje.si	ok	MaCoCu-SI-1.0
+1258	igralec.si	ok	MaCoCu-SI-1.0
+1259	tocnoto.si	ok	MaCoCu-SI-1.0
+1260	kroncek.mojforum.si	ok	MaCoCu-SI-1.0
+1261	planetaudio.si	ok	MaCoCu-SI-1.0
+1262	toplektura.mojforum.si	ok	MaCoCu-SI-1.0
+1263	portal.mss.edus.si	ok	MaCoCu-SI-1.0
+1264	tekac.si	ok	MaCoCu-SI-1.0
+1265	forum-lov.org	ok	MaCoCu-SI-1.0
+1266	fdv.uni-lj.si	ok	MaCoCu-SI-1.0
+1267	zps.si	ok	MaCoCu-SI-1.0
+1268	zdruzenjeobcin.si	ok	MaCoCu-SI-1.0
+1269	geocacher.si	ok	MaCoCu-SI-1.0
+1270	podsvojostreho.net	ok	MaCoCu-SI-1.0
+1271	uni-lj.si	ok	MaCoCu-SI-1.0
+1272	sony.si	ok	MaCoCu-SI-1.0
+1273	zastarse.si	ok	MaCoCu-SI-1.0
+1274	prlekija-on.net	ok	MaCoCu-SI-1.0
+1275	fiat-klub.si	ok	MaCoCu-SI-1.0
+1276	agencija-oskar.si	ok	MaCoCu-SI-1.0
+1277	povezujemo.si	ok	MaCoCu-SI-1.0
+1278	ecco-verde.si	ok	MaCoCu-SI-1.0
+1279	info-slovenija.si	ok	MaCoCu-SI-1.0
+1280	kresnik.eu	ok	MaCoCu-SI-1.0
+1281	up-rs.si	ok	MaCoCu-SI-1.0
+1282	sl.google-info.org	ok	MaCoCu-SI-1.0
+1283	dodogovor.org	ok	MaCoCu-SI-1.0
+1284	blog69.si	ok	MaCoCu-SI-1.0
+1285	gibanje-ops.com	ok	MaCoCu-SI-1.0
+1286	extremevital.com	ok	MaCoCu-SI-1.0
+1287	robin.si	ok	MaCoCu-SI-1.0
+1288	jesenice.si	ok	MaCoCu-SI-1.0
+1289	journals.openedition.org	ok	MaCoCu-SI-1.0
+1290	music24.si	ok	MaCoCu-SI-1.0
+1291	konoplja.org	ok	MaCoCu-SI-1.0
+1292	curia.europa.eu	ok	MaCoCu-SI-1.0
+1293	euromobil.si	ok	MaCoCu-SI-1.0
+1294	mds-drustvo.si	ok	MaCoCu-SI-1.0
+1295	primorski.eu	ok	MaCoCu-SI-1.0
+1296	pgdponikva.gz-sentjur.si	ok	MaCoCu-SI-1.0
+1297	moski.hudo.com	ok	MaCoCu-SI-1.0
+1298	dmslo.si	ok	MaCoCu-SI-1.0
+1299	imedi.si	ok	MaCoCu-SI-1.0
+1300	www2.fu.uni-lj.si	ok	MaCoCu-SI-1.0
+1301	arrs.si	ok	MaCoCu-SI-1.0
+1302	slovenia.info	ok	MaCoCu-SI-1.0
+1303	revis.openscience.si	ok	MaCoCu-SI-1.0
+1304	kitarist.si	ok	MaCoCu-SI-1.0
+1305	evsvet.eu	ok	MaCoCu-SI-1.0
+1306	inovelmedia.si	ok	MaCoCu-SI-1.0
+1307	share-international.net	ok	MaCoCu-SI-1.0
+1308	3ksport.si	ok	MaCoCu-SI-1.0
+1309	hozana.si	ok	MaCoCu-SI-1.0
+1310	peticija.online	ok	MaCoCu-SI-1.0
+1311	etransport.si	ok	MaCoCu-SI-1.0
+1312	hyde-park.si	ok	MaCoCu-SI-1.0
+1313	glitter.si	ok	MaCoCu-SI-1.0
+1314	wwwarhiv.ozs.si	ok	MaCoCu-SI-1.0
+1315	pespoti.si	ok	MaCoCu-SI-1.0
+1316	kraji.eu	ok	MaCoCu-SI-1.0
+1317	sos112.si	ok	MaCoCu-SI-1.0
+1318	srce-me-povezuje.si	ok	MaCoCu-SI-1.0
+1319	vitalabo.si	ok	MaCoCu-SI-1.0
+1320	sl.wikibooks.org	ok	MaCoCu-SI-1.0
+1321	pag.si	ok	MaCoCu-SI-1.0
+1322	tvsrk-11.si	ok	MaCoCu-SI-1.0
+1323	careerjet.si	ok	MaCoCu-SI-1.0
+1324	emundia.si	ok	MaCoCu-SI-1.0
+1325	ilovejudo.com	ok	MaCoCu-SI-1.0
+1326	forum.kajkupiti.si	ok	MaCoCu-SI-1.0
+1327	radiotomi.si	ok	MaCoCu-SI-1.0
+1328	noviglas.eu	ok	MaCoCu-SI-1.0
+1329	avdio.ognjisce.si	ok	MaCoCu-SI-1.0
+1330	exodus.si	ok	MaCoCu-SI-1.0
+1331	mojvideo.com	ok	MaCoCu-SI-1.0
+1332	si.rbth.com	ok	MaCoCu-SI-1.0
+1333	kajkupiti.si	ok	MaCoCu-SI-1.0
+1334	zvvs.si	ok	MaCoCu-SI-1.0
+1335	lisac.si	ok	MaCoCu-SI-1.0
+1336	buca.si	ok	MaCoCu-SI-1.0
+1337	izola.si	ok	MaCoCu-SI-1.0
+1338	divine.si	ok	MaCoCu-SI-1.0
+1339	recepti.najdi.si	ok	MaCoCu-SI-1.0
+1340	eu2008.si	ok	MaCoCu-SI-1.0
+1341	avogel.si	ok	MaCoCu-SI-1.0
+1342	altstore.si	ok	MaCoCu-SI-1.0
+1343	sanje.si	ok	MaCoCu-SI-1.0
+1344	porocevalec.ibs.si	ok	MaCoCu-SI-1.0
+1345	cinemania-group.si	ok	MaCoCu-SI-1.0
+1346	saop.si	ok	MaCoCu-SI-1.0
+1347	prc.si	ok	MaCoCu-SI-1.0
+1348	trajekt.org	ok	MaCoCu-SI-1.0
+1349	aura.ada.si	ok	MaCoCu-SI-1.0
+1350	live.finance.si	ok	MaCoCu-SI-1.0
+1351	rks.si	ok	MaCoCu-SI-1.0
+1352	sveterotike.si	ok	MaCoCu-SI-1.0
+1353	rodnagruda.si	ok	MaCoCu-SI-1.0
+1354	gape.org	ok	MaCoCu-SI-1.0
+1355	safe.si	ok	MaCoCu-SI-1.0
+1356	blogvivalavida.com	ok	MaCoCu-SI-1.0
+1357	saiorg.si	ok	MaCoCu-SI-1.0
+1358	izvoznookno.si	ok	MaCoCu-SI-1.0
+1359	maxximum-portal.com	ok	MaCoCu-SI-1.0
+1360	test.times.si	ok	MaCoCu-SI-1.0
+1361	stres.a.gape.org	ok	MaCoCu-SI-1.0
+1362	webshop.schachermayer.com	ok	MaCoCu-SI-1.0
+1363	telstar.si	ok	MaCoCu-SI-1.0
+1364	arhiv.rlv.si	ok	MaCoCu-SI-1.0
+1365	drustvo-mds.si	ok	MaCoCu-SI-1.0
+1366	gzdbk.si	ok	MaCoCu-SI-1.0
+1367	ro.si	ok	MaCoCu-SI-1.0
+1368	pugi.si	ok	MaCoCu-SI-1.0
+1369	worldofart.org	ok	MaCoCu-SI-1.0
+1370	ijs.si	ok	MaCoCu-SI-1.0
+1371	prvalekarna.com	ok	MaCoCu-SI-1.0
+1372	scca-ljubljana.si	ok	MaCoCu-SI-1.0
+1373	zaps.si	ok	MaCoCu-SI-1.0
+1374	goodlifestyle.si	ok	MaCoCu-SI-1.0
+1375	si.openprof.com	ok	MaCoCu-SI-1.0
+1376	damijan.org	ok	MaCoCu-SI-1.0
+1377	red-orbit.si	ok	MaCoCu-SI-1.0
+1378	lukazoja.si	ok	MaCoCu-SI-1.0
+1379	kibla.org	ok	MaCoCu-SI-1.0
+1380	1nadan.si	ok	MaCoCu-SI-1.0
+1381	astrologija-regulus.si	ok	MaCoCu-SI-1.0
+1382	katalogi.ceneje.si	ok	MaCoCu-SI-1.0
+1383	talentiran.si	ok	MaCoCu-SI-1.0
+1384	sloveniaholidays.com	ok	MaCoCu-SI-1.0
+1385	salonpohistva.si	ok	MaCoCu-SI-1.0
+1386	keepcalmandwearlipstick17.blogspot.com	ok	MaCoCu-SI-1.0
+1387	vwcampers.si	ok	MaCoCu-SI-1.0
+1388	delphi.si	ok	MaCoCu-SI-1.0
+1389	silux.si	ok	MaCoCu-SI-1.0
+1390	freeweb.t-2.net	ok	MaCoCu-SI-1.0
+1391	prostovoljstvo.org	ok	MaCoCu-SI-1.0
+1392	kuzek.si	ok	MaCoCu-SI-1.0
+1393	norma.si	ok	MaCoCu-SI-1.0
+1394	emorje.com	ok	MaCoCu-SI-1.0
+1395	britev.si	ok	MaCoCu-SI-1.0
+1396	potovanja.nomago.si	ok	MaCoCu-SI-1.0
+1397	netokracija.si	ok	MaCoCu-SI-1.0
+1398	zdravo.si	ok	MaCoCu-SI-1.0
+1399	svet-me.si	ok	MaCoCu-SI-1.0
+1400	lekarnaljubljana.si	ok	MaCoCu-SI-1.0
+1401	suzd.si	ok	MaCoCu-SI-1.0
+1402	avita.si	ok	MaCoCu-SI-1.0
+1403	gnes.si	ok	MaCoCu-SI-1.0
+1404	pikapolonica.si	ok	MaCoCu-SI-1.0
+1405	svetniki.org	ok	MaCoCu-SI-1.0
+1406	kavarnahayek.wordpress.com	ok	MaCoCu-SI-1.0
+1407	holist.eu	ok	MaCoCu-SI-1.0
+1408	support.microsoft.com	ok	MaCoCu-SI-1.0
+1409	pepermint.si	ok	MaCoCu-SI-1.0
+1410	antene-zupancic.si	ok	MaCoCu-SI-1.0
+1411	tell-me.mojforum.si	ok	MaCoCu-SI-1.0
+1412	bigbang.si	ok	MaCoCu-SI-1.0
+1413	ekspertrfr.si	ok	MaCoCu-SI-1.0
+1414	tehnokrat.si	ok	MaCoCu-SI-1.0
+1415	croatia.hr	ok	MaCoCu-SI-1.0
+1416	cipra.org	ok	MaCoCu-SI-1.0
+1417	vsu.ung.si	ok	MaCoCu-SI-1.0
+1418	sex2.si	ok	MaCoCu-SI-1.0
+1419	seonet.ljse.si	ok	MaCoCu-SI-1.0
+1420	bead.si	ok	MaCoCu-SI-1.0
+1421	glunis.com	ok	MaCoCu-SI-1.0
+1422	kvls.si	ok	MaCoCu-SI-1.0
+1423	zemljevid.najdi.si	ok	MaCoCu-SI-1.0
+1424	fclitija.si	ok	MaCoCu-SI-1.0
+1425	kud.si	ok	MaCoCu-SI-1.0
+1426	ced-slovenia.eu	ok	MaCoCu-SI-1.0
+1427	polleosport.si	ok	MaCoCu-SI-1.0
+1428	zoycik.si	ok	MaCoCu-SI-1.0
+1429	t-2.rula.net	ok	MaCoCu-SI-1.0
+1430	sl.medicineherbalist.com	ok	MaCoCu-SI-1.0
+1431	culinaryjourneybyme.com	ok	MaCoCu-SI-1.0
+1432	fantasyrpg.mojforum.si	ok	MaCoCu-SI-1.0
+1433	ius-info.ius-software.si	ok	MaCoCu-SI-1.0
+1434	optius.com	ok	MaCoCu-SI-1.0
+1435	wellneo.si	ok	MaCoCu-SI-1.0
+1436	videolectures.net	ok	MaCoCu-SI-1.0
+1437	opusdei.org	ok	MaCoCu-SI-1.0
+1438	madaboutfilm.si	ok	MaCoCu-SI-1.0
+1439	bakovci.net	ok	MaCoCu-SI-1.0
+1440	ssgt.si	ok	MaCoCu-SI-1.0
+1441	europa.eu	ok	MaCoCu-SI-1.0
+1442	doria.si	ok	MaCoCu-SI-1.0
+1443	holistic.si	ok	MaCoCu-SI-1.0
+1444	ten-net.si	ok	MaCoCu-SI-1.0
+1445	megasvet.si	ok	MaCoCu-SI-1.0
+1446	kazalci.arso.gov.si	ok	MaCoCu-SI-1.0
+1447	helios-suns.si	ok	MaCoCu-SI-1.0
+1448	symphony.si	ok	MaCoCu-SI-1.0
+1449	interconti.si	ok	MaCoCu-SI-1.0
+1450	ourspace.si	ok	MaCoCu-SI-1.0
+1451	neodvisni.art	ok	MaCoCu-SI-1.0
+1452	printink.si	ok	MaCoCu-SI-1.0
+1453	cityofwomen.org	ok	MaCoCu-SI-1.0
+1454	mt.com	ok	MaCoCu-SI-1.0
+1455	slo-link.si	ok	MaCoCu-SI-1.0
+1456	movit.si	ok	MaCoCu-SI-1.0
+1457	porscheinterauto.net	ok	MaCoCu-SI-1.0
+1458	svetuzitka.com	ok	MaCoCu-SI-1.0
+1459	renton.si	ok	MaCoCu-SI-1.0
+1460	bimbo.si	ok	MaCoCu-SI-1.0
+1461	businesstitans.online	ok	MaCoCu-SI-1.0
+1462	pinky-fashion.si	ok	MaCoCu-SI-1.0
+1463	sam.si	ok	MaCoCu-SI-1.0
+1464	akademijaoxford.com	ok	MaCoCu-SI-1.0
+1465	cosmeterie.si	ok	MaCoCu-SI-1.0
+1466	pocitnice-fsp.si	ok	MaCoCu-SI-1.0
+1467	taekwondowtf.si	ok	MaCoCu-SI-1.0
+1468	c21.si	ok	MaCoCu-SI-1.0
+1469	forum.fiat-klub.si	ok	MaCoCu-SI-1.0
+1470	cuvar.si	ok	MaCoCu-SI-1.0
+1471	factorystore.si	ok	MaCoCu-SI-1.0
+1472	makspro.si	ok	MaCoCu-SI-1.0
+1473	nazraku.si	ok	MaCoCu-SI-1.0
+1474	koks.si	ok	MaCoCu-SI-1.0
+1475	habeco.si	ok	MaCoCu-SI-1.0
+1476	pak.si	ok	MaCoCu-SI-1.0
+1477	cvilimozek.si	ok	MaCoCu-SI-1.0
+1478	e30.si	ok	MaCoCu-SI-1.0
+1479	lifelong.blogspot.com	ok	MaCoCu-SI-1.0
+1480	solemio.si	ok	MaCoCu-SI-1.0
+1481	jknm.si	ok	MaCoCu-SI-1.0
+1482	gohome.si	ok	MaCoCu-SI-1.0
+1483	storitev.com	ok	MaCoCu-SI-1.0
+1484	philips.si	ok	MaCoCu-SI-1.0
+1485	si.aleteia.org	ok	MaCoCu-SI-1.0
+1486	freeapproved.com	ok	MaCoCu-SI-1.0
+1487	twohomelands.zrc-sazu.si	ok	MaCoCu-SI-1.0
+1488	bfcshop.si	ok	MaCoCu-SI-1.0
+1489	815.si	ok	MaCoCu-SI-1.0
+1490	andrej.mernik.eu	ok	MaCoCu-SI-1.0
+1491	fotoultras.si	ok	MaCoCu-SI-1.0
+1492	institutfrance.si	ok	MaCoCu-SI-1.0
+1493	avtoin.com	ok	MaCoCu-SI-1.0
+1494	kakadu.si	ok	MaCoCu-SI-1.0
+1495	abcnovice.si	ok	MaCoCu-SI-1.0
+1496	click2chic.si	ok	MaCoCu-SI-1.0
+1497	aao.si	ok	MaCoCu-SI-1.0
+1498	mountvacation.si	ok	MaCoCu-SI-1.0
+1499	namarie.divine.si	ok	MaCoCu-SI-1.0
+1500	fito-info.si	ok	MaCoCu-SI-1.0
+1501	behealthy.si	ok	MaCoCu-SI-1.0
+1502	support.mozilla.org	ok	MaCoCu-SI-1.0
+1503	fashionista.si	ok	MaCoCu-SI-1.0
+1504	sl.wikiquote.org	ok	MaCoCu-SI-1.0
+1505	actionmama.com	ok	MaCoCu-SI-1.0
+1506	labelhair.si	ok	MaCoCu-SI-1.0
+1507	moro.si	ok	MaCoCu-SI-1.0
+1508	agrooglasi.si	ok	MaCoCu-SI-1.0
+1509	zdravniski-nasveti.net	ok	MaCoCu-SI-1.0
+1510	bankingsupervision.europa.eu	ok	MaCoCu-SI-1.0
+1511	panasonic.com	ok	MaCoCu-SI-1.0
+1512	slosport.org	ok	MaCoCu-SI-1.0
+1513	tutorialcup.com	ok	MaCoCu-SI-1.0
+1514	napoved-vremena.si	ok	MaCoCu-SI-1.0
+1515	urgenca.com	ok	MaCoCu-SI-1.0
+1516	grasca.si	ok	MaCoCu-SI-1.0
+1517	delimano.si	ok	MaCoCu-SI-1.0
+1518	3djake.si	ok	MaCoCu-SI-1.0
+1519	liderpnevmatik.si	ok	MaCoCu-SI-1.0
+1520	redoljub.si	ok	MaCoCu-SI-1.0
+1521	nakupek.si	ok	MaCoCu-SI-1.0
+1522	odklop.com	ok	MaCoCu-SI-1.0
+1523	ehrana.si	ok	MaCoCu-SI-1.0
+1524	izstopaj.si	ok	MaCoCu-SI-1.0
+1525	kiroja.si	ok	MaCoCu-SI-1.0
+1526	yogi.si	ok	MaCoCu-SI-1.0
+1527	mojekarte.si	ok	MaCoCu-SI-1.0
+1528	informiran.si	ok	MaCoCu-SI-1.0
+1529	triglav-du.si	ok	MaCoCu-SI-1.0
+1530	malizakladi.si	ok	MaCoCu-SI-1.0
+1531	gtocka.si	ok	MaCoCu-SI-1.0
+1532	kwon.si	ok	MaCoCu-SI-1.0
+1533	stoja-trade.si	ok	MaCoCu-SI-1.0
+1534	re-max.si	ok	MaCoCu-SI-1.0
+1535	eurogarden.eu	ok	MaCoCu-SI-1.0
+1536	leoss.si	ok	MaCoCu-SI-1.0
+1537	makspro.hr	ok	MaCoCu-SI-1.0
+1538	navodila.inmaster.si	ok	MaCoCu-SI-1.0
+1539	zadnja-mesta.si	ok	MaCoCu-SI-1.0
+1540	differenta.si	ok	MaCoCu-SI-1.0
+1541	svet-krizarjenj.si	ok	MaCoCu-SI-1.0
+1542	gamat.si	ok	MaCoCu-SI-1.0
+1543	megabon.eu	ok	MaCoCu-SI-1.0
+1544	im.scv.si	ok	MaCoCu-SI-1.0
+1545	slovarms.si	ok	MaCoCu-SI-1.0
+1546	panthera.si	ok	MaCoCu-SI-1.0
+1547	dom24.si	ok	MaCoCu-SI-1.0
+1548	playroom.si	ok	MaCoCu-SI-1.0
+1549	xenon-forte.si	ok	MaCoCu-SI-1.0
+1550	trgovina.span.si	ok	MaCoCu-SI-1.0
+1551	zaodrasle.si	ok	MaCoCu-SI-1.0
+1552	svetmetraze.si	ok	MaCoCu-SI-1.0
+1553	shop.haberkorn.si	ok	MaCoCu-SI-1.0
+1554	pekis.si	ok	MaCoCu-SI-1.0
+1555	techtrade.si	ok	MaCoCu-SI-1.0
+1556	funtech.si	ok	MaCoCu-SI-1.0
+1557	poti.rkc.si	ok	MaCoCu-SI-1.0
+1558	demago.si	ok	MaCoCu-SI-1.0
+1559	hajdi.si	ok	MaCoCu-SI-1.0
+1560	sexovnik.si	ok	MaCoCu-SI-1.0
+1561	icp-si.eu	ok	MaCoCu-SI-1.0
+1562	zelenatrgovina.si	ok	MaCoCu-SI-1.0
+1563	adrialog.com	ok	MaCoCu-SI-1.0
+1564	zavas.si	ok	MaCoCu-SI-1.0
+1565	bal.si	ok	MaCoCu-SI-1.0
+1566	fromaustria.com	ok	MaCoCu-SI-1.0
+1567	lchf-style.si	ok	MaCoCu-SI-1.0
+1568	fotograd.si	ok	MaCoCu-SI-1.0
+1569	vsipopusti.si	ok	MaCoCu-SI-1.0
+1570	trac.lecad.si	ok	MaCoCu-SI-1.0
+1571	shop.porscheinterauto.net	ok	MaCoCu-SI-1.0
+1572	zapeljiva.si	ok	MaCoCu-SI-1.0
+1573	indigo-nails.si	ok	MaCoCu-SI-1.0
+1574	megapohistvo.si	ok	MaCoCu-SI-1.0
+1575	obala.net	ok	MaCoCu-SI-1.0
+1576	podatki.gov.si	ok	MaCoCu-SI-1.0
+1577	nakupovanje.net	ok	MaCoCu-SI-1.0
+1578	fenzy.si	ok	MaCoCu-SI-1.0
+1579	mtl.si	ok	MaCoCu-SI-1.0
+1580	pcplus.si	ok	MaCoCu-SI-1.0
+1581	zib.si	ok	MaCoCu-SI-1.0
+1582	dolgouhec.eu	ok	MaCoCu-SI-1.0
+1583	agppro.si	ok	MaCoCu-SI-1.0
+1584	o-ptlasko.ce.edus.si	ok	MaCoCu-SI-1.0
+1585	majtoj.si	ok	MaCoCu-SI-1.0
+1586	mass.si	ok	MaCoCu-SI-1.0
+1587	matsport.si	ok	MaCoCu-SI-1.0
+1588	pajsbrezobresti.si	ok	MaCoCu-SI-1.0

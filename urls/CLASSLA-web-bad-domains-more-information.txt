@@ -1,0 +1,498 @@
+	domain	comment	source_corpus
+0	machineseeker.hr	machine translation	MaCoCu-hr 1.0
+1	mi.warbletoncouncil.org	foreign languages	MaCoCu-hr 1.0
+2	haw.warbletoncouncil.org	foreign languages	MaCoCu-hr 1.0
+3	bs.warbletoncouncil.org	machine translation	MaCoCu-hr 1.0
+4	hr.eferrit.com	machine translation	MaCoCu-hr 1.0
+5	game-game.com.hr	machine translation	MaCoCu-hr 1.0
+6	hr.strephonsays.com	machine translation	MaCoCu-hr 1.0
+7	haw.evidentista.org	foreign languages	MaCoCu-hr 1.0
+8	hr.weblogographic.com	machine translation	MaCoCu-hr 1.0
+9	moforaja.com	encoding issues	MaCoCu-hr 1.0
+10	m.baibala.org	foreign languages	MaCoCu-hr 1.0
+11	map.com.hr	machine translation, non-textual, generated text	MaCoCu-hr 1.0
+12	ha.warbletoncouncil.org	machine translation	MaCoCu-hr 1.0
+13	mi.evidentista.org	foreign languages	MaCoCu-hr 1.0
+14	bs.evidentista.org	machine translation	MaCoCu-hr 1.0
+15	yurope.com	encoding issues	MaCoCu-hr 1.0
+16	ha.evidentista.org	foreign languages	MaCoCu-hr 1.0
+17	hr.evidentista.org	machine translation	MaCoCu-hr 1.0
+18	en.bharatdiscovery.org	foreign languages	MaCoCu-hr 1.0
+19	storyboardthat.com	machine translation	MaCoCu-hr 1.0
+20	hr.ovalengineering.com	machine translation	MaCoCu-hr 1.0
+21	hr.odisseialiteraria.com	machine translation	MaCoCu-hr 1.0
+22	aozeljeznicar.hr	encoding issues	MaCoCu-hr 1.0
+23	fontovi.gifmania.com.hr	non-textual, generated	MaCoCu-hr 1.0
+24	crnakutija.babe.hr	machine translation	MaCoCu-hr 1.0
+25	hrv.beashandmade.com	machine translation	MaCoCu-hr 1.0
+26	uspdr-delta.hr	encoding issues	MaCoCu-hr 1.0
+27	yo.warbletoncouncil.org	machine translation	MaCoCu-hr 1.0
+28	sciencedocbox.com	non-textual	MaCoCu-hr 1.0
+29	hr.wpcbh.org	machine translation	MaCoCu-hr 1.0
+30	hr.goldavelez.com	machine translation	MaCoCu-hr 1.0
+31	hr.hiloved.com	machine translation	MaCoCu-hr 1.0
+32	hr.aroundtravels.com	machine translation	MaCoCu-hr 1.0
+33	hr.10steps.org	machine translation	MaCoCu-hr 1.0
+34	ig.warbletoncouncil.org	machine translation	MaCoCu-hr 1.0
+35	hr.energymedresearch.com	machine translation	MaCoCu-hr 1.0
+36	sw.warbletoncouncil.org	machine translation	MaCoCu-hr 1.0
+37	hr.ncmhcso.org	machine translation	MaCoCu-hr 1.0
+38	hr.livingorganicnews.com	machine translation	MaCoCu-hr 1.0
+39	hr.istanbulbear.org	machine translation	MaCoCu-hr 1.0
+40	hr.drderamus.com	machine translation	MaCoCu-hr 1.0
+41	bs.ncmhcso.org	machine translation	MaCoCu-hr 1.0
+42	hr.decorexpro.com	machine translation	MaCoCu-hr 1.0
+43	hr.wvpt4learning.org	machine translation	MaCoCu-hr 1.0
+44	hr.iliveok.com	machine translation	MaCoCu-hr 1.0
+45	hr.smiley-site.com	machine translation	MaCoCu-hr 1.0
+46	hr.culture-today.com	machine translation	MaCoCu-hr 1.0
+47	hr.nutritionatyourfingertips.com	machine translation	MaCoCu-hr 1.0
+48	hr.puntomarinero.com	machine translation	MaCoCu-hr 1.0
+49	bs.eferrit.com	machine translation	MaCoCu-hr 1.0
+50	hr.blablacams.com	machine translation	MaCoCu-hr 1.0
+51	sw.evidentista.org	foreign languages	MaCoCu-hr 1.0
+52	zgodbice.net	encoding issues	MaCoCu-sl 1.0
+53	ht.warbletoncouncil.org	foreign language	MaCoCu-sl 1.0
+54	ht.evidentista.org	foreign language	MaCoCu-sl 1.0
+55	sl.tierient.com	machine translation	MaCoCu-sl 1.0
+56	bambusoveslamice.si	machine translation	MaCoCu-sl 1.0
+57	virs-primorske.si	machine translation	MaCoCu-sl 1.0
+58	sl.gadget-info.com	machine translation	MaCoCu-sl 1.0
+59	sl.brictly.com	machine translation	MaCoCu-sl 1.0
+60	sl.warbletoncouncil.org	machine translation	MaCoCu-sl 1.0
+61	sl.asayamind.com	machine translation	MaCoCu-sl 1.0
+62	sl.eferrit.com	machine translation	MaCoCu-sl 1.0
+63	sl.strephonsays.com	machine translation	MaCoCu-sl 1.0
+64	mali-vragci.si	machine translation	MaCoCu-sl 1.0
+65	sl.digitalentertainmentnews.com	machine translation	MaCoCu-sl 1.0
+66	game-game.si	machine translation	MaCoCu-sl 1.0
+67	sl.iliveok.com	machine translation	MaCoCu-sl 1.0
+68	slv.line-magazine.com	machine translation	MaCoCu-sl 1.0
+69	sl.puntomarinero.com	machine translation	MaCoCu-sl 1.0
+70	rojstna-karta.si	machine translation	MaCoCu-sl 1.0
+71	apartmaji-hrvaska.si	machine translation	MaCoCu-sl 1.0
+72	gifmania.si	machine translation	MaCoCu-sl 1.0
+73	sl.emoneyo.com	machine translation	MaCoCu-sl 1.0
+74	sl.albertolamaphotography.com	machine translation	MaCoCu-sl 1.0
+75	bigshop.si	machine translation	MaCoCu-sl 1.0
+76	sl.food-of-dream.com	machine translation	MaCoCu-sl 1.0
+77	sl.modasefa.info	machine translation	MaCoCu-sl 1.0
+78	sl.vomturmhaus.com	machine translation	MaCoCu-sl 1.0
+79	sl.stilmoda.info	machine translation	MaCoCu-sl 1.0
+80	sl.wpcbh.org	machine translation	MaCoCu-sl 1.0
+81	sl.fredtvshow.com	machine translation	MaCoCu-sl 1.0
+82	privatapartmajihrvaska.si	machine translation	MaCoCu-sl 1.0
+83	sex-trgovina.si	machine translation, English	MaCoCu-sl 1.0
+84	mascus.si	machine translation, foreign languages, generated text	MaCoCu-sl 1.0
+85	ustavimokorono.si	machine translation, non-textual	MaCoCu-sl 1.0
+86	interadesign.si	machine translation, non-textual	MaCoCu-sl 1.0
+87	student-tomi.si	machine translation, non-textual	MaCoCu-sl 1.0
+88	adriatic.hr	machine translation, some foreign language	MaCoCu-sl 1.0
+89	weblinkpedia.com	non-textual	MaCoCu-sl 1.0
+90	truck1.si	non-textual	MaCoCu-sl 1.0
+91	edumatics.eu	porn	MaCoCu-sl 1.0
+92	ellanet.eu	porn	MaCoCu-sl 1.0
+93	ktswire.eu	porn	MaCoCu-sl 1.0
+94	thekingandi.eu	porn	MaCoCu-sl 1.0
+95	manutenservice.eu	porn	MaCoCu-sl 1.0
+96	jobsuey.eu	porn	MaCoCu-sl 1.0
+97	edugov.eu	porn	MaCoCu-sl 1.0
+98	nimik.eu	porn	MaCoCu-sl 1.0
+99	crossgame.eu	porn	MaCoCu-sl 1.0
+100	nonformalopendoors.eu	porn	MaCoCu-sl 1.0
+101	basama.eu	porn	MaCoCu-sl 1.0
+102	fp7-mode.eu	porn	MaCoCu-sl 1.0
+103	schminkspiegel.eu	porn	MaCoCu-sl 1.0
+104	bedrijfsuitjescheveningen.eu	porn	MaCoCu-sl 1.0
+105	jujutsu-styria.eu	porn	MaCoCu-sl 1.0
+106	euregio-loft.eu	porn	MaCoCu-sl 1.0
+107	weshareasea.eu	porn	MaCoCu-sl 1.0
+108	agroskill.eu	porn	MaCoCu-sl 1.0
+109	alagonia.eu	porn	MaCoCu-sl 1.0
+110	synapcity.eu	porn	MaCoCu-sl 1.0
+111	inchirieri-masini.eu	porn	MaCoCu-sl 1.0
+112	droneconsulting.eu	porn	MaCoCu-sl 1.0
+113	k35.eu	porn	MaCoCu-sl 1.0
+114	svensklapphund.eu	porn	MaCoCu-sl 1.0
+115	rodinnaporadna.eu	porn	MaCoCu-sl 1.0
+116	wasserprofi.eu	porn	MaCoCu-sl 1.0
+117	reality-myjava.eu	porn	MaCoCu-sl 1.0
+118	theinvitational.eu	porn	MaCoCu-sl 1.0
+119	serviceboerse.eu	porn	MaCoCu-sl 1.0
+120	dyvyne.eu	porn	MaCoCu-sl 1.0
+121	tothelighthouse.eu	porn	MaCoCu-sl 1.0
+122	zcgart-wycena.eu	porn	MaCoCu-sl 1.0
+123	digital-crhed.eu	porn	MaCoCu-sl 1.0
+124	swissgoldplan.eu	porn	MaCoCu-sl 1.0
+125	proshots.eu	porn	MaCoCu-sl 1.0
+126	spolekmyslivcu-fld.eu	porn	MaCoCu-sl 1.0
+127	yachtandtravel.eu	porn	MaCoCu-sl 1.0
+128	kurtvonnegutcorner.eu	porn	MaCoCu-sl 1.0
+129	kizuna-design.eu	porn	MaCoCu-sl 1.0
+130	fairbau.eu	porn	MaCoCu-sl 1.0
+131	ednax.eu	porn	MaCoCu-sl 1.0
+132	feuerwehr-klingenberg.eu	porn	MaCoCu-sl 1.0
+133	mobile3dtv.eu	porn	MaCoCu-sl 1.0
+134	hegetschweiler.eu	porn	MaCoCu-sl 1.0
+135	ilrisparmio.eu	porn	MaCoCu-sl 1.0
+136	musictelevisionmaker.eu	porn	MaCoCu-sl 1.0
+137	farbe-licht-raum.eu	porn	MaCoCu-sl 1.0
+138	okwebsites.eu	porn	MaCoCu-sl 1.0
+139	domoenergytics.eu	porn	MaCoCu-sl 1.0
+140	nimic.eu	porn	MaCoCu-sl 1.0
+141	sejour-ardennes.eu	porn	MaCoCu-sl 1.0
+142	prowald.eu	porn	MaCoCu-sl 1.0
+143	unionedemocratica.eu	porn	MaCoCu-sl 1.0
+144	ecultvalue.eu	porn	MaCoCu-sl 1.0
+145	mironofshow.eu	porn	MaCoCu-sl 1.0
+146	reishiinsel.eu	porn	MaCoCu-sl 1.0
+147	taofengshui.eu	porn	MaCoCu-sl 1.0
+148	casainteligenta.eu	porn	MaCoCu-sl 1.0
+149	renegadesaints.eu	porn	MaCoCu-sl 1.0
+150	edafmis.eu	porn	MaCoCu-sl 1.0
+151	ragehockey.eu	porn	MaCoCu-sl 1.0
+152	fambeat.eu	porn	MaCoCu-sl 1.0
+153	essealcubo.eu	porn	MaCoCu-sl 1.0
+154	profi-store.eu	porn	MaCoCu-sl 1.0
+155	pchvn.eu	porn	MaCoCu-sl 1.0
+156	healthfromnature.eu	porn	MaCoCu-sl 1.0
+157	dierdonk.eu	porn	MaCoCu-sl 1.0
+158	cyclovet.eu	porn	MaCoCu-sl 1.0
+159	green-catering.eu	porn	MaCoCu-sl 1.0
+160	autobazar-autobazary.eu	porn	MaCoCu-sl 1.0
+161	artgr.eu	porn	MaCoCu-sl 1.0
+162	cobratis.eu	porn	MaCoCu-sl 1.0
+163	ekosense.eu	porn	MaCoCu-sl 1.0
+164	solarbotanic.eu	porn	MaCoCu-sl 1.0
+165	svareci-technika.eu	porn	MaCoCu-sl 1.0
+166	5volt.eu	porn	MaCoCu-sl 1.0
+167	hotelamflugplatz.eu	porn	MaCoCu-sl 1.0
+168	verkoudheid.eu	porn	MaCoCu-sl 1.0
+169	g-and-t.eu	porn	MaCoCu-sl 1.0
+170	agamky.eu	porn	MaCoCu-sl 1.0
+171	webfischer.eu	porn	MaCoCu-sl 1.0
+172	kasteeldeschaffelaar.eu	porn	MaCoCu-sl 1.0
+173	eskills4einclusion.eu	porn	MaCoCu-sl 1.0
+174	reality-malacky.eu	porn	MaCoCu-sl 1.0
+175	euglobal.eu	porn	MaCoCu-sl 1.0
+176	brain-vision.eu	porn	MaCoCu-sl 1.0
+177	gite-lamothe.eu	porn	MaCoCu-sl 1.0
+178	hotdex.eu	porn	MaCoCu-sl 1.0
+179	chicaboo.eu	porn	MaCoCu-sl 1.0
+180	hr-m.iliveok.com	machine translation	MaCoCu HBS corpora 2.0
+181	icdself.com	machine translation	MaCoCu HBS corpora 2.0
+182	bs.everaoh.com	machine translation	MaCoCu HBS corpora 2.0
+183	mnemedicaltourism.me	porn	MaCoCu HBS corpora 2.0
+184	bg.waykun.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+185	nsokote.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+186	oqpowah.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+187	sl.265health.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+188	actualno.com	wrong language	CLASSLA-web 2.0 (Western Slavic)
+189	hr.englishlib.org	bilingual corpus	CLASSLA-web 2.0 (Western Slavic)
+190	bioptron.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+191	rooms4u.com.hr	machine translation	CLASSLA-web 2.0 (Western Slavic)
+192	eldan.com.hr	machine translation	CLASSLA-web 2.0 (Western Slavic)
+193	all4kids.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+194	my-time.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+195	dentalab-db.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+196	trucoteca.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+197	sl.opentran.net	machine translation	CLASSLA-web 2.0 (Western Slavic)
+198	sl.womanuntamed.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+199	clickthis.blog	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+200	hr.erch2014.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+201	dreamdesign.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+202	wikiwand.com	Wikipedia	CLASSLA-web 2.0 (Western Slavic)
+203	zpovednice.eu	wrong language	CLASSLA-web 2.0 (Western Slavic)
+204	ciksiti.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+205	hot-box.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+206	studiolux.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+207	momanu.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+208	aponi.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+209	en.englishlib.org	bilingual corpus	CLASSLA-web 2.0 (Western Slavic)
+210	paulturner-mitchell.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+211	stanovanjazavse.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+212	inicijativa.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+213	pomaoxy.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+214	th-cam.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+215	mancaspik.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+216	ljubimac.online	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+217	weter.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+218	tvojstil.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+219	hr.womanuntamed.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+220	mavishoes.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+221	tek-zdravja.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+222	sr.puntomarinero.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+223	zalepljen.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+224	usput.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+225	sr.play-azlabs.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+226	sr.womanuntamed.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+227	vevi-avtodom.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+228	lamiradacritica.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+229	drustvo-dtvpo.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+230	wikislsl.top	machine translated	CLASSLA-web 2.0 (Western Slavic)
+231	bs.birmiss.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+232	apkamp.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+233	cijena-veza.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+234	jw.englishlib.org	bilingual corpus	CLASSLA-web 2.0 (Western Slavic)
+235	sportinfo.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+236	planetariodevitoria.org	machine translation	CLASSLA-web 2.0 (Western Slavic)
+237	komiss.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+238	smtrading.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+239	tecnobits.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+240	saga.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+241	tabgha.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+242	bg.garynevillegasm.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+243	zelenela.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+244	moni.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+245	ap-arhitektura.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+246	google.hr	search engine results	CLASSLA-web 2.0 (Western Slavic)
+247	elektro-pavic.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+248	issa-apartmani.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+249	printmarket.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+250	solna-dozivetja.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+251	institut-dv.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+252	assmos.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+253	google.rs	search engine results	CLASSLA-web 2.0 (Western Slavic)
+254	paprika.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+255	webspot.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+256	viri.cjvt.si	corpora	CLASSLA-web 2.0 (Western Slavic)
+257	sr.atomiyme.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+258	dom-blato.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+259	babolon.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+260	kilt.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+261	wikizero.com	Wikipedia	CLASSLA-web 2.0 (Western Slavic)
+262	ocvirk-jm.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+263	black-radler.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+264	iso-portal.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+265	sl.birmiss.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+266	ful-povezani.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+267	herkul-promo.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+268	ograje-horvat.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+269	hr.gregersenartpoint.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+270	mlook.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+271	bs.inditics.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+272	bs.delachieve.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+273	google.ba	search engine results	CLASSLA-web 2.0 (Western Slavic)
+274	hr.delachieve.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+275	servis-gita.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+276	gopi.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+277	hr.top-heaterchina.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+278	ewikibg.top	wrong language	CLASSLA-web 2.0 (Western Slavic)
+279	glamourlashes.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+280	gojzar.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+281	mojahiska.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+282	wol.jw.org	machine translation	CLASSLA-web 2.0 (Western Slavic)
+283	pro-shop.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+284	skyscrapercity.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+285	tekstilno-blago.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+286	bs.hiloved.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+287	sl.hiloved.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+288	bannedbook.org	machine translation	CLASSLA-web 2.0 (Western Slavic)
+289	pizzeriaviva.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+290	pinard.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+291	rectistop.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+292	zmesajsi.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+293	sl.capaparda.com	machine translated	CLASSLA-web 2.0 (Western Slavic)
+294	hr.capaparda.com	machine translated	CLASSLA-web 2.0 (Western Slavic)
+295	lunca.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+296	hor.supermg.com	machine translated	CLASSLA-web 2.0 (Western Slavic)
+297	vaidam.com	machine translated	CLASSLA-web 2.0 (Western Slavic)
+298	luksor-rent.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+299	mk.traasgpu.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+300	bgdepe.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+301	hr.ekobutik.si	machine translation	CLASSLA-web 2.0 (Western Slavic)
+302	mnt-riokup.com.hr	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+303	travelsdocbox.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+304	toplocalplaces.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+305	hr.eyewated.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+306	bine.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+307	rns-translation.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+308	drustvozacplj.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+309	bs.traasgpu.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+310	houses-apartments.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+311	test-vergleiche.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+312	hr.home-diary.net	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+313	zascitnikizivali.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+314	tccacovid.org	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+315	genuine-lamps.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+316	konopljazazdravje.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+317	bg.erch2014.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+318	mojaladja.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+319	jw.org	machine translation	CLASSLA-web 2.0 (Western Slavic)
+320	maksi-trgovina.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+321	docplayer.si	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+322	ubuy.ba	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+323	omusa.shop	machine translation	CLASSLA-web 2.0 (Western Slavic)
+324	sr.goodlifestudio.net	machine translation	CLASSLA-web 2.0 (Western Slavic)
+325	hr.gottamentor.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+326	siol-net.translate.goog	machine translation	CLASSLA-web 2.0 (Western Slavic)
+327	howgeekis.com	machine translation	CLASSLA-web 2.0 (Western Slavic)
+328	sl.goodlifestudio.net	machine translation	CLASSLA-web 2.0 (Western Slavic)
+329	firstbaptistchurcheg.com	automatically generated	CLASSLA-web 2.0 (Western Slavic)
+330	zascho.koshachek.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+331	bg.blogotirni.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+332	living-sun.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+333	muzruno.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+334	bg.winesino.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+335	ibg.waykun.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+336	iwbg.waykun.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+337	rand-bg.eu	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+338	protourism.news	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+339	bg.birmiss.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+340	petreader.net	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+341	worldnews.bg	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+342	bg.ilovevaquero.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+343	alceg-bg.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+344	bg.ellas-cookies.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+345	themainline.bg	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+346	hmn.wiki	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+347	bg.wordssidekick.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+348	messaggiamo.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+349	bg.kagouletheband.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+350	bezshevniuluci.eu	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+351	vchas.pro	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+352	topoferti.bg	blocked by antivirus programme	CLASSLA-web 2.0 (Eastern Slavic)
+353	bg.hiloved.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+354	focusnews.bg	blocked by antivirus programme	CLASSLA-web 2.0 (Eastern Slavic)
+355	sportove.info	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+356	yqm.dobrblog.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+357	bg.supermg.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+358	bg.asayamind.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+359	bg.science19.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+360	bg.animalefans.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+361	signal2forex.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+362	klukarnik.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+363	hikersbay.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+364	elsalook.decorexpro.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+365	bg.momkidzone.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+366	bg.doctorizzy.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+367	offradranch.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+368	bg.bio-green.net	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+369	obqvi.org	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+370	bg.photo-secret.net	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+371	bg.whattalking.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+372	bgm.imdmyself.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+373	scan.bird.bg	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+374	bg.frosthead.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+375	bg.biblequest.biz	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+376	lesno-pari.cam	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+377	graphilla.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+378	diggbg.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+379	bg.millennivm.org	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+380	bg.economy-pedia.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+381	bg.differencevs.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+382	routetraveler.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+383	bg.food-of-dream.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+384	allbg.eu	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+385	bg.carsalmanac.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+386	bg.gadget-info.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+387	1001beach.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+388	sneakersmodel.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+389	bg.topcombi.org	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+390	bg.versal-wood.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+391	bg.theastrologypage.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+392	mysticalmagazine.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+393	uncoscelebrity.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+394	bg.about-meaning.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+395	bul.asayamind.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+396	wellnesstidings.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+397	bg.foodofmyaffection.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+398	sapidinterior.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+399	feminine-look.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+400	folkpublication.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+401	top-home-tips.com	seems machine translated, authors have Russian names	CLASSLA-web 2.0 (Eastern Slavic)
+402	bg.planeta-design.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+403	cars-overview.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+404	folksyguide.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+405	nowadaysci.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+406	yogaoutbreak.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+407	ecofriendlytime.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+408	selfartisan.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+409	farmingcountrylife.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+410	autodaybook.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+411	fashioneverydaylife.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+412	choice-bg.techinfus.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+413	mylady.htgetrid.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+414	bg.moneyratestoday.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+415	wristletwatch.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+416	bg.uzvisit.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+417	opinionauto.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+418	techno.techinfus.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+419	mysticalpeace.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+420	crushtymks.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+421	womanishclub.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+422	mychoice.techinfus.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+423	modernlifelog.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+424	geek-reviews.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+425	roomex.bigbadmole.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+426	tv.tomathouse.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+427	stayinformedgroup.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+428	bg.magicgardening.net	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+429	jobbingdiy.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+430	femalecunning.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+431	motoristdiary.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+432	bggdb.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+433	advicehowtodo.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+434	sightlytravel.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+435	foodloversbox.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+436	moderncarsbook.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+437	foryouvoyage.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+438	carsfeatures.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+439	networks-blog.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+440	vogue-culture.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+441	motoringcars.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+442	voguetendency.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+443	tipsforlinux.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+444	worldlytips.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+445	futuretechnol.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+446	readablecard.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+447	asingleplanet.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+448	malewayoflife.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+449	womanishdiary.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+450	petsguidebook.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+451	elite-weekly.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+452	elearninglog.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+453	womencunning.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+454	travel-quaint.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+455	manlikelog.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+456	popsmagazine.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+457	applemacipad.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+458	sheknowslife.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+459	virilejournal.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+460	artpopculture.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+461	womanishstyle.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+462	moreeating.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+463	leisurefree.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+464	androidminute.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+465	trendsmodish.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+466	drollanimals.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+467	repairstyling.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+468	advicegadget.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+469	rancherman.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+470	autogtracing.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+471	masculineroom.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+472	printdialogue.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+473	iztochnik.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+474	keepuphealth.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+475	mybookrecipes.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+476	ecologydigest.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+477	carstidings.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+478	stunnecrafts.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+479	scitechnique.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+480	animals-peace.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+481	fashion-person.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+482	cryptouncos.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+483	youthfulmoms.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+484	stylefeminine.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+485	tidingsauto.articls.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+486	mk.atomiyme.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+487	mk.eferrit.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+488	sitel.com.mk	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+489	mk.approby.com	machine generated	CLASSLA-web 2.0 (Eastern Slavic)
+490	pozitiv.mk	blocked by antivirus programme	CLASSLA-web 2.0 (Eastern Slavic)
+491	divianarts.com	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+492	ringeraja.mk	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+493	novina.mk	unavailable	CLASSLA-web 2.0 (Eastern Slavic)
+494	triling.mk	blocked by antivirus programme	CLASSLA-web 2.0 (Eastern Slavic)
+495	bible.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
+496	greelane.com	machine translated	CLASSLA-web 2.0 (Eastern Slavic)
