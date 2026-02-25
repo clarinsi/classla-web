@@ -1,4 +1,4 @@
-# URL Dumps
+# Lists of South Slavic Web Domains
 
 This directory contains lists of the web domains extracted from CLASSLA-web 1.0 and 2.0 corpora.
 
