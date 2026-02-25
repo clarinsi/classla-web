@@ -1,9 +1,8 @@
 # URL Dumps
 
-This directory contains lists of the URLs extracted from CLASSLA-web 1.0 and 2.0 corpora.
+This directory contains lists of the web domains extracted from CLASSLA-web 1.0 and 2.0 corpora.
 
 We publish:
-- lists of full URLs: all URLs from each web corpus (e.g., CLASSLA-web.cnr.2.0.urls.json)
 - lists of all unique domains from each web corpus (e.g., CLASSLA-web.cnr.2.0.domains.json)
 - a blacklist: a list of domains from CLASSLA-web corpora that were manually identified as bad domains and removed from the curated corpora - `CLASSLA-web.blacklisted_domains.json`. The list contains 682 domains. More information on some of the domains (the source and reason for removal) is available in `CLASSLA-web-bad-domains-more-information.txt`
 - information on manually-verified domains: a table with domains that have been manually verified to be okay (i.e., not automatically generated or machine translated) - `CLASSLA-web-manually-verified-domains-list.txt`
@@ -26,10 +25,9 @@ We publish:
 |  sr.2.0    |  7,232,860      |     36,171             |
 
 
-
 ## More information
 
-Domains are created from the URLs following this code:
+Domains are created from the URLs of web pages from which texts were extracted following this code:
 
 ```python
 import regex as re
